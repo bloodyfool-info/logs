@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1416316041 source:c:\users\wessel\desktop\text c++\file read experiment\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"player.h"
+	<map>
+	<set>
+
+1416253410 source:c:\users\wessel\desktop\text c++\file read experiment\src\session.cpp
+	"Session.h"
+
+1416253409 c:\users\wessel\desktop\text c++\file read experiment\include\session.h
+
+1416267626 c:\users\wessel\desktop\text c++\file read experiment\player.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"time.h"
+
+1416266459 c:\users\wessel\desktop\text c++\file read experiment\time.h
+
+1416278564 source:c:\users\wessel\desktop\text c++\file read experiment\player.cpp
+	"player.h"
+	<sstream>
+
+1416316085 source:c:\users\wessel\desktop\text c++\file read experiment\time.cpp
+	"time.h"
+	<iostream>
+
