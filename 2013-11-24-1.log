@@ -1,0 +1,1255 @@
+[00:50:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2555ms behind, skipping 51 tick(s)
+[01:40:33] [User Authenticator #864/INFO]: UUID of player LolitaGothica is a777c14869bb46de83d1b3c41df5d183
+[01:40:33] [Server thread/INFO]: LolitaGothica[/88.91.90.176:52343] logged in with entity id 21469447 at (239.87112517519785, 65.0, 56.028924577381346)
+[01:40:33] [Server thread/INFO]: LolitaGothica joined the game
+[01:43:57] [Server thread/INFO]: LolitaGothica lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:43:57] [Server thread/INFO]: LolitaGothica left the game
+[02:14:10] [User Authenticator #865/INFO]: UUID of player LolitaGothica is a777c14869bb46de83d1b3c41df5d183
+[02:14:10] [Server thread/INFO]: LolitaGothica[/88.91.90.176:53578] logged in with entity id 21472084 at (244.30940568919317, 65.0, 56.044323966776226)
+[02:14:10] [Server thread/INFO]: LolitaGothica joined the game
+[02:15:11] [Server thread/INFO]: LolitaGothica drowned
+[02:16:47] [Server thread/INFO]: LolitaGothica has just earned the achievement [Time to Strike!]
+[02:17:18] [Server thread/INFO]: LolitaGothica has just earned the achievement [Monster Hunter]
+[02:22:51] [Server thread/INFO]: LolitaGothica drowned
+[03:17:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2158ms behind, skipping 43 tick(s)
+[03:43:23] [Server thread/INFO]: LolitaGothica lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:43:23] [Server thread/INFO]: LolitaGothica left the game
+[09:45:41] [User Authenticator #866/INFO]: UUID of player MeinolfB is 40348882ffbd4ecb8aa5a934c197124a
+[09:45:42] [Server thread/INFO]: MeinolfB[/77.106.146.30:49193] logged in with entity id 21519260 at (-4.390836632304254, 66.0, 183.26122399901766)
+[09:45:42] [Server thread/INFO]: MeinolfB joined the game
+[09:45:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3102ms behind, skipping 62 tick(s)
+[09:49:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2964ms behind, skipping 59 tick(s)
+[09:53:08] [Server thread/INFO]: MeinolfB lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[09:53:08] [Server thread/INFO]: MeinolfB left the game
+[09:55:17] [User Authenticator #867/INFO]: UUID of player MeinolfB is 40348882ffbd4ecb8aa5a934c197124a
+[09:55:17] [Server thread/INFO]: MeinolfB[/77.106.146.30:49205] logged in with entity id 21545396 at (134.78232781884634, 63.0, 159.83301640677314)
+[09:55:17] [Server thread/INFO]: MeinolfB joined the game
+[09:56:54] [User Authenticator #868/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[09:56:54] [Server thread/INFO]: Klatrern[/83.109.169.41:23333] logged in with entity id 21548489 at (-150.86398089925942, 77.0, 758.6999999880791)
+[09:56:54] [Server thread/INFO]: Klatrern joined the game
+[09:57:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10998ms behind, skipping 219 tick(s)
+[09:57:09] [Server thread/INFO]: <MeinolfB> mmmm???????????rrrrrrrrrrrrrrrggggggggoooooooooooonnnnnnnnnnnnnnnn
+[09:57:12] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:23328) lost connection: Disconnected
+[09:58:04] [Server thread/INFO]: MeinolfB lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[09:58:04] [Server thread/INFO]: MeinolfB left the game
+[09:58:31] [User Authenticator #869/INFO]: UUID of player MeinolfB is 40348882ffbd4ecb8aa5a934c197124a
+[09:58:31] [Server thread/INFO]: MeinolfB[/77.106.146.30:49226] logged in with entity id 21552965 at (83.72506862649509, 65.24918707874468, 136.32112710934499)
+[09:58:31] [Server thread/INFO]: MeinolfB joined the game
+[09:59:50] [Server thread/INFO]: <MeinolfB> kom til spawn
+[10:00:06] [Server thread/INFO]: <Klatrern> wa
+[10:00:08] [Server thread/INFO]: <MeinolfB> du f?r diamanter
+[10:00:40] [Server thread/INFO]: <Klatrern> ja
+[10:00:57] [Server thread/INFO]: <MeinolfB> fort deg
+[10:01:31] [Server thread/INFO]: <MeinolfB> fort deg
+[10:03:57] [Server thread/INFO]: <MeinolfB> hvor er du n?
+[10:05:33] [Server thread/INFO]: <MeinolfB> du m? sende melding p? spillet da
+[10:06:56] [Server thread/INFO]: MeinolfB lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[10:06:56] [Server thread/INFO]: MeinolfB left the game
+[10:45:47] [Server thread/INFO]: Klatrern lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[10:45:47] [Server thread/INFO]: Klatrern left the game
+[10:46:06] [User Authenticator #870/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[10:46:06] [Server thread/INFO]: Klatrern[/83.109.169.41:14964] logged in with entity id 21645337 at (-152.89695275475276, 20.0, 849.3000000119209)
+[10:46:06] [Server thread/INFO]: Klatrern joined the game
+[10:46:24] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:14944) lost connection: Disconnected
+[10:46:24] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:14951) lost connection: Disconnected
+[10:46:24] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:14963) lost connection: Disconnected
+[10:47:01] [User Authenticator #871/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[10:47:01] [Server thread/INFO]: Klatrern[/83.109.169.41:15404] logged in with entity id 21646053 at (-155.97282728099933, 20.0, 849.3000000119209)
+[10:47:01] [Server thread/INFO]: Klatrern joined the game
+[10:47:01] [Server thread/INFO]: Klatrern lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[10:47:01] [Server thread/INFO]: Klatrern left the game
+[11:09:44] [User Authenticator #872/INFO]: UUID of player LolitaGothica is a777c14869bb46de83d1b3c41df5d183
+[11:09:44] [Server thread/INFO]: LolitaGothica[/88.91.90.176:61097] logged in with entity id 21661681 at (258.8691180846664, 63.0, 36.69999998807907)
+[11:09:44] [Server thread/INFO]: LolitaGothica joined the game
+[11:14:54] [Server thread/INFO]: LolitaGothica lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:14:54] [Server thread/INFO]: LolitaGothica left the game
+[11:25:01] [User Authenticator #873/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[11:25:01] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:18646] logged in with entity id 21680853 at (-77.38613683072954, 71.0, 277.2039715096532)
+[11:25:01] [Server thread/INFO]: 98Minecraft99 joined the game
+[11:42:07] [User Authenticator #874/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[11:42:07] [Server thread/INFO]: Zikhoath[/83.109.169.41:20625] logged in with entity id 21723293 at (-35.4669909790072, 47.0, 758.245226357403)
+[11:42:07] [Server thread/INFO]: Zikhoath joined the game
+[11:42:24] [Server thread/INFO]: GameProfile{id='null', name='Zikhoath'} (/83.109.169.41:20624) lost connection: Disconnected
+[11:43:11] [Server thread/WARN]: Zikhoath moved wrongly!
+[11:46:06] [Server thread/INFO]: 98Minecraft99 starved to death
+[11:46:43] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:46:43] [Server thread/INFO]: 98Minecraft99 left the game
+[11:46:47] [User Authenticator #875/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[11:46:47] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:20829] logged in with entity id 21734991 at (-37.09174301973419, 69.0, 177.15711419835668)
+[11:46:47] [Server thread/INFO]: 98Minecraft99 joined the game
+[11:47:59] [Server thread/INFO]: Zikhoath lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:47:59] [Server thread/INFO]: Zikhoath left the game
+[11:48:27] [User Authenticator #876/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[11:48:27] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:21617] logged in with entity id 21740939 at (-96.78543307460038, 55.446312894399995, 339.2138635565965)
+[11:48:27] [Server thread/INFO]: 98Minecraft99 joined the game
+[11:48:40] [Server thread/INFO]: Klatrern lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:48:40] [Server thread/INFO]: Klatrern left the game
+[11:48:54] [Server thread/INFO]: 98Minecraft99 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:48:54] [Server thread/INFO]: 98Minecraft99 left the game
+[11:49:14] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:21718) lost connection: Disconnected
+[11:49:14] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:21719) lost connection: Disconnected
+[11:49:22] [Server thread/INFO]: Disconnecting GameProfile{id='null', name='Klatrern'} (/83.109.169.41:21720): Took too long to log in
+[11:49:22] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:21720) lost connection: Took too long to log in
+[11:49:42] [User Authenticator #877/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[11:49:42] [Server thread/INFO]: Klatrern[/83.109.169.41:21748] logged in with entity id 21743334 at (-148.92490168745292, 77.0, 757.2784730768673)
+[11:49:42] [Server thread/INFO]: Klatrern joined the game
+[11:58:39] [Server thread/INFO]: 98Minecraft99 was slain by Zombie
+[12:01:15] [Server thread/INFO]: Klatrern lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:01:15] [Server thread/INFO]: Klatrern left the game
+[12:02:24] [Server thread/INFO]: 98Minecraft99 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:02:24] [Server thread/INFO]: 98Minecraft99 left the game
+[12:02:49] [User Authenticator #878/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[12:02:49] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:22829] logged in with entity id 21768990 at (-92.64112356992759, 62.472061926788534, 410.161967190174)
+[12:02:49] [Server thread/INFO]: 98Minecraft99 joined the game
+[12:03:00] [Server thread/INFO]: 98Minecraft99 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:03:00] [Server thread/INFO]: 98Minecraft99 left the game
+[12:03:53] [User Authenticator #879/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[12:03:53] [Server thread/INFO]: Klatrern[/83.109.169.41:23035] logged in with entity id 21769110 at (-155.606033236146, 79.0, 761.6615837446612)
+[12:03:53] [Server thread/INFO]: Klatrern joined the game
+[12:04:05] [User Authenticator #880/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[12:04:05] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:23059] logged in with entity id 21769304 at (-92.64112356992759, 61.234332728077824, 410.161967190174)
+[12:04:05] [Server thread/INFO]: 98Minecraft99 joined the game
+[12:04:16] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:04:16] [Server thread/INFO]: 98Minecraft99 left the game
+[12:04:22] [User Authenticator #881/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[12:04:22] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:23070] logged in with entity id 21769687 at (-94.64619540242184, 62.5664872793084, 411.33426544802313)
+[12:04:22] [Server thread/INFO]: 98Minecraft99 joined the game
+[12:05:05] [Server thread/INFO]: 98Minecraft99 was slain by Zombie
+[12:06:56] [Server thread/INFO]: Klatrern lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:06:56] [Server thread/INFO]: Klatrern left the game
+[12:07:03] [User Authenticator #882/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[12:07:03] [Server thread/INFO]: Klatrern[/83.109.169.41:23308] logged in with entity id 21780686 at (113.1436693968649, 64.0, 743.9559350339838)
+[12:07:03] [Server thread/INFO]: Klatrern joined the game
+[12:08:44] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:08:44] [Server thread/INFO]: 98Minecraft99 left the game
+[12:09:34] [User Authenticator #883/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[12:09:34] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:23497] logged in with entity id 21790165 at (10.5, 64.0, 210.5)
+[12:09:34] [Server thread/INFO]: 98Minecraft99 joined the game
+[12:09:47] [User Authenticator #884/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[12:09:47] [Server thread/INFO]: podens[/83.109.169.41:23504] logged in with entity id 21792152 at (-142.71311877893285, 63.0, -294.6833271370104)
+[12:09:47] [Server thread/INFO]: podens joined the game
+[12:10:30] [Server thread/INFO]: Klatrern lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:10:30] [Server thread/INFO]: Klatrern left the game
+[12:13:09] [User Authenticator #885/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[12:13:09] [Server thread/INFO]: Zikhoath[/83.109.169.41:23798] logged in with entity id 21803671 at (-12.017452428962716, 87.0, 791.5065317676567)
+[12:13:09] [Server thread/INFO]: Zikhoath joined the game
+[12:14:54] [Server thread/INFO]: 98Minecraft99 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:14:54] [Server thread/INFO]: 98Minecraft99 left the game
+[12:15:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2317ms behind, skipping 46 tick(s)
+[12:15:27] [User Authenticator #886/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[12:15:27] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:23860] logged in with entity id 21820048 at (-71.9403948591194, 62.37894595993129, 352.3606116252118)
+[12:15:27] [Server thread/INFO]: 98Minecraft99 joined the game
+[12:16:03] [User Authenticator #887/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[12:16:03] [Server thread/INFO]: Klatrern[/83.109.169.41:23877] logged in with entity id 21823093 at (558.2811367426566, 64.0, 807.3825749307182)
+[12:16:03] [Server thread/INFO]: Klatrern joined the game
+[12:16:14] [Server thread/INFO]: Zikhoath was shot by Skeleton
+[12:16:20] [Server thread/INFO]: 98Minecraft99 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:16:20] [Server thread/INFO]: 98Minecraft99 left the game
+[12:16:21] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:23876) lost connection: Disconnected
+[12:16:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2280ms behind, skipping 45 tick(s)
+[12:16:54] [User Authenticator #888/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[12:16:54] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:23912] logged in with entity id 21825666 at (-120.97289930985724, 64.0, 432.67019200037356)
+[12:16:54] [Server thread/INFO]: 98Minecraft99 joined the game
+[12:17:08] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:17:08] [Server thread/INFO]: 98Minecraft99 left the game
+[12:19:56] [Server thread/INFO]: Zikhoath was slain by Zombie
+[12:20:51] [Server thread/INFO]: Zikhoath was blown up by Creeper
+[12:21:18] [Server thread/INFO]: podens lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:21:18] [Server thread/INFO]: podens left the game
+[12:21:21] [Server thread/INFO]: Klatrern lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:21:21] [Server thread/INFO]: Klatrern left the game
+[12:21:21] [Server thread/INFO]: <Zikhoath> sove
+[12:21:47] [User Authenticator #889/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[12:21:47] [Server thread/INFO]: Klatrern[/83.109.169.41:25033] logged in with entity id 21837679 at (141.76845458684448, 64.0, 942.153964415519)
+[12:21:47] [Server thread/INFO]: Klatrern joined the game
+[12:22:04] [Server thread/INFO]: Klatrern was slain by Zombie
+[12:23:55] [User Authenticator #890/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[12:23:55] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:25885] logged in with entity id 21843886 at (-138.3902655230496, 68.0, 464.7878770327556)
+[12:23:55] [Server thread/INFO]: 98Minecraft99 joined the game
+[12:23:58] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:23:58] [Server thread/INFO]: 98Minecraft99 left the game
+[12:24:49] [User Authenticator #891/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[12:24:49] [Server thread/INFO]: podens[/83.109.169.41:26161] logged in with entity id 21846881 at (243.45197801839635, 63.0, -233.30000001192096)
+[12:24:49] [Server thread/INFO]: podens joined the game
+[12:32:22] [Server thread/INFO]: <Zikhoath> zzzz
+[12:34:33] [User Authenticator #892/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[12:34:33] [Server thread/INFO]: Bloody_fool[/82.169.221.232:54108] logged in with entity id 21874616 at (3.456193004131068, 66.5, 172.18338001726048)
+[12:34:33] [Server thread/INFO]: Bloody_fool joined the game
+[12:34:43] [Server thread/INFO]: <Bloody_fool> hello my pretties
+[12:35:24] [Server thread/INFO]: <Zikhoath> uuhhh
+[12:35:34] [Server thread/INFO]: <Bloody_fool> du karl marting, hvor bor du na?
+[12:35:41] [Server thread/INFO]: Bloody_fool lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:35:41] [Server thread/INFO]: Bloody_fool left the game
+[12:35:43] [Server thread/INFO]: <Zikhoath> p? siden av meg
+[12:36:01] [User Authenticator #893/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[12:36:01] [Server thread/INFO]: Bloody_fool[/82.169.221.232:9835] logged in with entity id 21878079 at (-51.14827009048563, 72.0, 176.52597571380704)
+[12:36:01] [Server thread/INFO]: Bloody_fool joined the game
+[12:36:19] [Server thread/INFO]: <Bloody_fool> hvor bor du?
+[12:36:22] [Server thread/INFO]: <Zikhoath> bor du i en village i en mega taiga biome?
+[12:36:43] [Server thread/INFO]: <Zikhoath> karl martin bor i mega taiga
+[12:36:48] [Server thread/INFO]: <Bloody_fool> ok
+[12:36:57] [Server thread/INFO]: <Bloody_fool> kan jeg fjerne gamle plassen din?
+[12:37:26] [Server thread/INFO]: <podens> HAN SI JA
+[12:37:32] [Server thread/INFO]: <Bloody_fool> ok :)
+[12:39:53] [Server thread/INFO]: Klatrern was slain by podens
+[12:40:05] [Server thread/WARN]: Klatrern moved wrongly!
+[12:46:21] [User Authenticator #894/INFO]: UUID of player Netherlord is 6accd8a5a64446d1b6bf2bed5cb58364
+[12:46:21] [Server thread/INFO]: Netherlord[/109.247.85.165:64700] logged in with entity id 21906212 at (93.81295591221915, 83.5, 87.39486863918245)
+[12:46:21] [Server thread/INFO]: Netherlord joined the game
+[12:50:49] [Server thread/INFO]: <Netherlord> wes
+[12:50:54] [Server thread/INFO]: <Bloody_fool> yo
+[12:51:01] [Server thread/INFO]: <Netherlord> do you have ender pearls?
+[12:51:07] [Server thread/INFO]: <Bloody_fool> no
+[12:51:13] [Server thread/INFO]: <Bloody_fool> ot
+[12:51:14] [Server thread/INFO]: <Bloody_fool> or
+[12:51:16] [Server thread/INFO]: <Bloody_fool> maybe
+[12:51:21] [Server thread/INFO]: <Bloody_fool> check the tower
+[12:53:16] [Server thread/INFO]: <Netherlord> nope
+[12:53:38] [Server thread/INFO]: <Netherlord> hmm
+[12:54:08] [Server thread/INFO]: <Bloody_fool> imma g gun
+[12:54:09] [Server thread/INFO]: <Bloody_fool> ttyl
+[12:54:11] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:54:11] [Server thread/INFO]: Bloody_fool left the game
+[12:58:02] [Server thread/INFO]: Klatrern was slain by Zombie
+[12:58:49] [Server thread/INFO]: Klatrern lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:58:49] [Server thread/INFO]: Klatrern left the game
+[12:59:01] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:16703) lost connection: Disconnected
+[12:59:15] [User Authenticator #895/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[12:59:15] [Server thread/INFO]: Klatrern[/83.109.169.41:16753] logged in with entity id 21960694 at (-157.57802429680106, 63.0, 736.9252985359416)
+[12:59:15] [Server thread/INFO]: Klatrern joined the game
+[13:00:44] [Server thread/INFO]: Klatrern was shot by Skeleton
+[13:00:49] [User Authenticator #896/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[13:00:49] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:17146] logged in with entity id 21965522 at (-138.82778896106583, 68.0, 465.18535468016154)
+[13:00:49] [Server thread/INFO]: 98Minecraft99 joined the game
+[13:01:03] [Server thread/INFO]: 98Minecraft99 was slain by Spider
+[13:01:15] [Server thread/INFO]: <Netherlord> trololol
+[13:02:53] [Server thread/INFO]: Zikhoath was slain by podens
+[13:02:57] [Server thread/INFO]: <Netherlord> haha
+[13:03:02] [Server thread/INFO]: <Netherlord> turf war
+[13:04:02] [Server thread/INFO]: <98Minecraft99> I cant breathe!!!
+[13:04:03] [Server thread/INFO]: 98Minecraft99 drowned
+[13:04:12] [Server thread/INFO]: <Zikhoath> HEHE
+[13:10:10] [Server thread/INFO]: Netherlord lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:10:10] [Server thread/INFO]: Netherlord left the game
+[13:12:39] [Server thread/INFO]: 98Minecraft99 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:12:39] [Server thread/INFO]: 98Minecraft99 left the game
+[13:12:52] [Server thread/INFO]: <Klatrern> zZzZzZzZzZzZ
+[13:13:14] [Server thread/INFO]: <Zikhoath> zzzz
+[13:13:27] [Server thread/INFO]: <Klatrern> zZzZzZzZz
+[13:13:37] [Server thread/INFO]: <Zikhoath> zZzZZzZzZzZZzZzZZzZZz
+[13:13:40] [Server thread/INFO]: podens lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: io.netty.handler.timeout.ReadTimeoutException], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:13:40] [Server thread/INFO]: podens left the game
+[13:13:41] [User Authenticator #897/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[13:13:41] [Server thread/INFO]: podens[/83.109.169.41:20205] logged in with entity id 22040234 at (-150.67378284740406, 79.0, 762.4395825140525)
+[13:13:41] [Server thread/INFO]: podens joined the game
+[13:16:04] [User Authenticator #898/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[13:16:04] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:20887] logged in with entity id 22045357 at (-151.5, 82.0999984741211, 761.5)
+[13:16:04] [Server thread/INFO]: 98Minecraft99 joined the game
+[13:16:27] [Server thread/INFO]: Zikhoath fell from a high place
+[13:16:50] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:16:50] [Server thread/INFO]: 98Minecraft99 left the game
+[13:21:52] [Server thread/INFO]: Klatrern was slain by podens
+[13:25:58] [Server thread/INFO]: Zikhoath hit the ground too hard
+[13:26:56] [Server thread/INFO]: Zikhoath was slain by podens
+[13:36:47] [Server thread/INFO]: Klatrern fell from a high place
+[13:40:03] [Server thread/INFO]: <podens> E DREP SAU
+[13:40:38] [Server thread/INFO]: podens has just earned the achievement [Cow Tipper]
+[13:43:36] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:22553) lost connection: Disconnected
+[13:43:44] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:22557) lost connection: Disconnected
+[13:43:48] [Server thread/INFO]: GameProfile{id='null', name='Klatrern'} (/83.109.169.41:22560) lost connection: Disconnected
+[13:44:50] [Server thread/INFO]: Zikhoath was slain by Zombie
+[13:45:32] [Server thread/INFO]: Zikhoath was slain by Zombie
+[13:47:00] [Server thread/INFO]: Zikhoath was slain by Zombie
+[13:50:16] [Server thread/INFO]: podens was doomed to fall by Skeleton
+[13:52:48] [Server thread/INFO]: Klatrern was shot by Skeleton
+[13:52:50] [Server thread/INFO]: <Zikhoath> zzz
+[13:53:29] [Server thread/INFO]: Klatrern was shot by Skeleton
+[13:56:36] [Server thread/INFO]: Klatrern was shot by Skeleton
+[14:07:08] [Server thread/INFO]: Zikhoath was doomed to fall by podens
+[14:07:34] [Server thread/INFO]: podens was blown up by Creeper
+[14:07:48] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:07:48] [Server thread/INFO]: Zikhoath left the game
+[14:08:00] [User Authenticator #899/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[14:08:00] [Server thread/INFO]: Zikhoath[/83.109.169.41:24322] logged in with entity id 22154405 at (7.445728076875373, 66.0, 199.56487272904164)
+[14:08:00] [Server thread/INFO]: Zikhoath joined the game
+[14:12:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2596ms behind, skipping 51 tick(s)
+[14:12:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2293ms behind, skipping 45 tick(s)
+[14:15:26] [Server thread/INFO]: Klatrern was blown up by Creeper
+[14:18:05] [Server thread/INFO]: podens lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:18:05] [Server thread/INFO]: podens left the game
+[14:18:10] [Server thread/INFO]: Zikhoath drowned
+[14:18:17] [User Authenticator #900/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:18:17] [Server thread/INFO]: podens[/83.109.169.41:25973] logged in with entity id 22194211 at (-5.36941049095515, 68.0, 788.6964386283242)
+[14:18:17] [Server thread/INFO]: podens joined the game
+[14:19:45] [Server thread/INFO]: podens lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:19:45] [Server thread/INFO]: podens left the game
+[14:21:09] [Server thread/INFO]: Zikhoath tried to swim in lava
+[14:21:26] [User Authenticator #901/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:21:26] [Server thread/INFO]: podens[/83.109.169.41:26249] logged in with entity id 22208642 at (-16.770279105935654, 87.0, 792.8148053603247)
+[14:21:26] [Server thread/INFO]: podens joined the game
+[14:22:37] [Server thread/INFO]: podens lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:22:37] [Server thread/INFO]: podens left the game
+[14:23:03] [User Authenticator #902/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[14:23:03] [Server thread/INFO]: Bloody_fool[/82.169.221.232:55488] logged in with entity id 22215150 at (-96.59733940933049, 73.0, 239.41095546271188)
+[14:23:03] [Server thread/INFO]: Bloody_fool joined the game
+[14:23:28] [Server thread/INFO]: <Zikhoath> ANDREAS SPRENKTE HUSE MIT DREP HAN :D
+[14:23:36] [Server thread/INFO]: <Zikhoath> det skrev andreas
+[14:23:45] [Server thread/INFO]: <Bloody_fool> hvor er du?
+[14:23:47] [Server thread/INFO]: <Zikhoath> men han sprengte huset mitt og
+[14:23:54] [Server thread/INFO]: <Zikhoath> satt det i flammer
+[14:23:54] [Server thread/INFO]: [Bloody_fool: Set own game mode to Creative Mode]
+[14:24:01] [Server thread/INFO]: <Zikhoath> er ved spawnen
+[14:24:10] [Server thread/INFO]: [Bloody_fool: Teleported Bloody_fool to Zikhoath]
+[14:24:20] [Server thread/INFO]: <Bloody_fool> hvor er huseet ditt da?
+[14:24:26] [Server thread/INFO]: <Zikhoath> mega taiga
+[14:24:27] [Server thread/INFO]: [Bloody_fool: Teleported Bloody_fool to Zikhoath]
+[14:25:35] [Server thread/INFO]: <Bloody_fool> her?
+[14:25:40] [Server thread/INFO]: <Zikhoath> nei
+[14:25:48] [Server thread/INFO]: [Bloody_fool: Teleported Bloody_fool to Zikhoath]
+[14:25:51] [Server thread/INFO]: <Zikhoath> ta mega taiga p? wikien
+[14:26:06] [Server thread/INFO]: <Bloody_fool> ja ja men hvor
+[14:26:06] [User Authenticator #903/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[14:26:07] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:26871] logged in with entity id 22226290 at (-176.5011269054583, 64.0, 773.3000000119209)
+[14:26:07] [Server thread/INFO]: 98Minecraft99 joined the game
+[14:26:07] [Server thread/INFO]: <Zikhoath> noe annet enn rooftop
+[14:26:11] [Server thread/INFO]: <Zikhoath> z700
+[14:26:14] [Server thread/INFO]: <Zikhoath> ca
+[14:26:18] [Server thread/INFO]: [98Minecraft99: Banned player podens]
+[14:26:34] [Server thread/INFO]: <Zikhoath> x ca 0
+[14:26:42] [Server thread/INFO]: <Bloody_fool> jeg vet
+[14:26:47] [Server thread/INFO]: <Bloody_fool> men jeg bevegde meg i denne retnignen
+[14:26:58] [Server thread/INFO]: <Bloody_fool> z?
+[14:27:07] [Server thread/INFO]: <Zikhoath> 700
+[14:27:21] [Server thread/INFO]: Zikhoath fell from a high place
+[14:27:22] [Server thread/INFO]: <Bloody_fool> jeg ser
+[14:27:54] [Server thread/INFO]: [Bloody_fool: Teleported Zikhoath to Bloody_fool]
+[14:28:15] [Server thread/INFO]: <98Minecraft99> TP er det lov da?
+[14:28:28] [Server thread/INFO]: <Zikhoath> derja
+[14:28:34] [Server thread/INFO]: <Zikhoath> ved farmen
+[14:28:45] [Server thread/INFO]: <Zikhoath> og bru g?r til karl martin
+[14:28:53] [Server thread/INFO]: [Bloody_fool: No game rule called 'firetick' is available]
+[14:28:56] [Server thread/INFO]: <Bloody_fool> brb
+[14:28:57] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:28:57] [Server thread/INFO]: Bloody_fool left the game
+[14:29:17] [Server thread/INFO]: [98Minecraft99: Unbanned player podens]
+[14:29:31] [User Authenticator #904/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[14:29:31] [Server thread/INFO]: Bloody_fool[/82.169.221.232:56398] logged in with entity id 22236177 at (-32.19714264724046, 86.0, 781.9707811031137)
+[14:29:31] [Server thread/INFO]: Bloody_fool joined the game
+[14:29:55] [Server thread/INFO]: [Bloody_fool: No game rule called 'dofiretick' is available]
+[14:30:28] [Server thread/INFO]: <Zikhoath> tnt derja
+[14:30:34] [Server thread/INFO]: <Zikhoath> fikk med kista
+[14:31:02] [User Authenticator #905/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:31:02] [Server thread/INFO]: podens[/83.109.169.41:27302] logged in with entity id 22238313 at (-22.532285965380428, 87.0, 791.2241690292958)
+[14:31:02] [Server thread/INFO]: podens joined the game
+[14:31:29] [Server thread/INFO]: [Bloody_fool: Game rule has been updated]
+[14:31:43] [Server thread/INFO]: <Zikhoath> jeg tror det beste er ? banne andreas
+[14:31:51] [Server thread/INFO]: [Bloody_fool: Banned player podens]
+[14:31:51] [Server thread/INFO]: podens lost connection: TextComponent{text='You are banned from this server.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:31:51] [Server thread/INFO]: podens left the game
+[14:31:56] [User Authenticator #906/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:31:56] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27377): You are banned from this server!
+Reason: Banned by an operator.
+[14:31:56] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27377) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:31:58] [User Authenticator #907/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:31:58] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27385): You are banned from this server!
+Reason: Banned by an operator.
+[14:31:58] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27385) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:32:00] [User Authenticator #908/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:32:00] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27392): You are banned from this server!
+Reason: Banned by an operator.
+[14:32:00] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27392) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:32:02] [User Authenticator #909/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:32:02] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27401): You are banned from this server!
+Reason: Banned by an operator.
+[14:32:02] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27401) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:32:04] [User Authenticator #910/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:32:04] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27405): You are banned from this server!
+Reason: Banned by an operator.
+[14:32:04] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27405) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:32:05] [User Authenticator #911/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:32:05] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27416): You are banned from this server!
+Reason: Banned by an operator.
+[14:32:06] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27416) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:32:07] [User Authenticator #912/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:32:07] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27420): You are banned from this server!
+Reason: Banned by an operator.
+[14:32:07] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27420) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:32:13] [User Authenticator #913/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:32:13] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27431): You are banned from this server!
+Reason: Banned by an operator.
+[14:32:13] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27431) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:32:44] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:32:44] [Server thread/INFO]: 98Minecraft99 left the game
+[14:32:56] [Server thread/INFO]: <Bloody_fool> er det mye odelagt?
+[14:32:58] [User Authenticator #914/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:32:58] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27533): You are banned from this server!
+Reason: Banned by an operator.
+[14:32:58] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27533) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:33:04] [User Authenticator #915/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:33:04] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27542): You are banned from this server!
+Reason: Banned by an operator.
+[14:33:04] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:27542) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:33:07] [Server thread/INFO]: <Zikhoath> her for det meste
+[14:33:13] [Server thread/INFO]: <Zikhoath> men kista mi var her
+[14:33:25] [Server thread/INFO]: <Bloody_fool> hvor mye tnt brukte han?
+[14:33:31] [Server thread/INFO]: <Zikhoath> drepte meg i etterkant og tokk alle tingene jeg fikk tatt ed meg
+[14:34:05] [Server thread/INFO]: <Bloody_fool> brukte han mye tnt?
+[14:34:15] [Server thread/INFO]: <Zikhoath> 1 tror jeg
+[14:34:22] [Server thread/INFO]: <Bloody_fool> 1 tnt
+[14:34:24] [Server thread/INFO]: <Bloody_fool> ok
+[14:34:36] [Server thread/INFO]: <Bloody_fool> brb igjen
+[14:34:37] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:34:37] [Server thread/INFO]: Bloody_fool left the game
+[14:35:04] [User Authenticator #916/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[14:35:04] [Server thread/INFO]: fuglseten[/109.247.85.165:51602] logged in with entity id 22246982 at (115.23750001192097, 67.0, 788.8988131268983)
+[14:35:04] [Server thread/INFO]: fuglseten joined the game
+[14:35:23] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:35:23] [Server thread/INFO]: fuglseten left the game
+[14:35:24] [User Authenticator #917/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[14:35:24] [Server thread/INFO]: Bloody_fool[/82.169.221.232:57412] logged in with entity id 22247988 at (-20.78677425119006, 87.0, 795.9225177361623)
+[14:35:24] [Server thread/INFO]: Bloody_fool joined the game
+[14:35:28] [User Authenticator #918/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[14:35:28] [Server thread/INFO]: fuglseten[/109.247.85.165:11103] logged in with entity id 22247989 at (115.30000001192093, 67.0, 788.5939761410017)
+[14:35:28] [Server thread/INFO]: fuglseten joined the game
+[14:35:29] [Server thread/INFO]: <Bloody_fool> ok
+[14:35:58] [Server thread/INFO]: <Bloody_fool> ja du far bare fixe det
+[14:36:07] [Server thread/INFO]: <Bloody_fool> hva mangler du av items?
+[14:36:20] [Server thread/INFO]: <Zikhoath> alt
+[14:36:25] [Server thread/INFO]: <Zikhoath> hadde ikke mye
+[14:36:32] [Server thread/INFO]: <Bloody_fool> alt er borte
+[14:36:39] [Server thread/INFO]: <Bloody_fool> hvor bor andreas?
+[14:36:42] [Server thread/INFO]: <Zikhoath> unntatt det som er i kista n?
+[14:36:51] [Server thread/INFO]: <Zikhoath> andreas bor ved fred
+[14:36:59] [Server thread/INFO]: <Bloody_fool> ok
+[14:37:02] [Server thread/INFO]: <Zikhoath> den stygge hekken
+[14:37:40] [Server thread/INFO]: <Klatrern> jeg skule f? itemene til andreas :D
+[14:37:54] [Server thread/INFO]: <Klatrern> sigur kan f? lit
+[14:37:54] [Server thread/INFO]: <Bloody_fool> sa han det?
+[14:37:59] [Server thread/INFO]: <Klatrern> ja
+[14:38:02] [Server thread/INFO]: <Zikhoath> andreas ja
+[14:38:15] [Server thread/INFO]: <Bloody_fool> skulle han slutte?
+[14:38:23] [Server thread/INFO]: <Klatrern> ja
+[14:38:27] [Server thread/INFO]: <Zikhoath> han sa det var verdt bannen
+[14:39:06] [Server thread/INFO]: <Klatrern> han tula bare
+[14:39:25] [Server thread/INFO]: [Bloody_fool: Set own game mode to Survival Mode]
+[14:40:10] [Server thread/INFO]: <Bloody_fool> har dere ogsa masse lag?
+[14:40:19] [Server thread/INFO]: <Zikhoath> DU HAR MEST
+[14:40:22] [Server thread/INFO]: <fuglseten> nei
+[14:40:26] [Server thread/INFO]: <Zikhoath> unsskyld capslock
+[14:40:35] [Server thread/INFO]: <Bloody_fool> mest lag?
+[14:40:50] [Server thread/INFO]: <Zikhoath> tab says it
+[14:40:52] [Server thread/INFO]: Klatrern fell from a high place
+[14:40:55] [Server thread/INFO]: <Bloody_fool> ikke mer enn vanlig?
+[14:41:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2492ms behind, skipping 49 tick(s)
+[14:41:01] [Server thread/INFO]: <Zikhoath> nei
+[14:41:10] [Server thread/INFO]: <Bloody_fool> ok brb
+[14:41:12] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:41:12] [Server thread/INFO]: Bloody_fool left the game
+[14:43:30] [User Authenticator #919/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[14:43:30] [Server thread/INFO]: Bloody_fool[/82.169.221.232:49306] logged in with entity id 22297274 at (-96.62716729304056, 72.0, 235.72068138195758)
+[14:43:30] [Server thread/INFO]: Bloody_fool joined the game
+[14:43:37] [Server thread/INFO]: <Bloody_fool> test
+[14:43:38] [Server thread/INFO]: <Bloody_fool> aa
+[14:43:41] [Server thread/INFO]: <Bloody_fool> all lag gone
+[14:44:09] [Server thread/INFO]: <fuglseten> a lot of lag
+[14:44:15] [Server thread/INFO]: [Bloody_fool: Game rule has been updated]
+[14:44:48] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:44:48] [Server thread/INFO]: fuglseten left the game
+[14:44:53] [User Authenticator #920/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[14:44:53] [Server thread/INFO]: fuglseten[/109.247.85.165:51617] logged in with entity id 22308023 at (64.96560355806113, 69.0, 125.60741427938358)
+[14:44:53] [Server thread/INFO]: fuglseten joined the game
+[14:45:11] [Server thread/INFO]: fuglseten was slain by Zombie
+[14:45:17] [Server thread/INFO]: <fuglseten> sove?
+[14:45:35] [Server thread/INFO]: <Zikhoath> zzz
+[14:45:42] [Server thread/INFO]: <fuglseten> hvilke tre bor du i Zikhoath?
+[14:45:42] [Server thread/INFO]: <Klatrern> ?
+[14:45:52] [Server thread/INFO]: <fuglseten> zzz
+[14:45:58] [Server thread/INFO]: <Zikhoath> mega taiga
+[14:46:04] [Server thread/INFO]: <Zikhoath> z 700
+[14:46:07] [Server thread/INFO]: <Zikhoath> x 0
+[14:46:12] [Server thread/INFO]: <fuglseten> det er jeg som bor i husene
+[14:46:16] [Server thread/INFO]: <Zikhoath> ok
+[14:46:18] [Server thread/INFO]: <Klatrern> zZzZz
+[14:46:23] [Server thread/INFO]: <Zikhoath> greit ? vite
+[14:46:31] [Server thread/INFO]: <fuglseten> har laget de ogs? btw
+[14:47:15] [Server thread/INFO]: <fuglseten> er treet du bor i like ved?
+[14:47:23] [Server thread/INFO]: <Bloody_fool> in
+[14:47:27] [Server thread/INFO]: <Bloody_fool> zz
+[14:47:30] [Server thread/INFO]: <fuglseten> in
+[14:48:05] [Server thread/INFO]: Zikhoath was blown up by Creeper
+[14:48:07] [Server thread/INFO]: <fuglseten> det brenner i treet ditt
+[14:48:14] [Server thread/INFO]: <Zikhoath> jeg vet det
+[14:48:33] [Server thread/INFO]: <Zikhoath> fire tick er av
+[14:48:35] [Server thread/INFO]: <fuglseten> hvorfor har du tatt fyr p? det?
+[14:48:45] [Server thread/INFO]: <Bloody_fool> firetick er pa igjen
+[14:48:50] [Server thread/INFO]: <Bloody_fool> jeg skrudde det pa
+[14:48:58] [Server thread/INFO]: <fuglseten> hva er det?
+[14:49:05] [Server thread/INFO]: <Bloody_fool> alt ild sprer seg
+[14:49:11] [Server thread/INFO]: <Bloody_fool> og brenner opp ting
+[14:49:15] [Server thread/INFO]: <Bloody_fool> det var av litt
+[14:49:23] [Server thread/INFO]: <Bloody_fool> men er pa igjen
+[14:49:25] [Server thread/INFO]: <Zikhoath> det var andreas som tok fyr p? huset mitt
+[14:49:31] [Server thread/INFO]: <fuglseten> har ikke spiltp? en stund
+[14:49:51] [Server thread/INFO]: <Bloody_fool> nei det er en admin greie
+[14:50:02] [Server thread/INFO]: <Bloody_fool> en gamerule som kan skrus pa og av
+[14:51:47] [Server thread/INFO]: <Bloody_fool> si at ole skal komme pa
+[14:52:00] [Server thread/INFO]: <fuglseten> ok...
+[14:52:33] [Server thread/INFO]: <fuglseten> kommer etter hvert... m?tte sette ny streng p? gitaren
+[14:52:45] [Server thread/INFO]: <Bloody_fool> lol k
+[14:54:25] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:54:25] [Server thread/INFO]: Zikhoath left the game
+[14:54:29] [User Authenticator #921/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[14:54:29] [Server thread/INFO]: Zikhoath[/83.109.169.41:10082] logged in with entity id 22356585 at (899.6973277775683, 62.39735591294071, 582.7259847560196)
+[14:54:29] [Server thread/INFO]: Zikhoath joined the game
+[14:57:16] [User Authenticator #922/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[14:57:16] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:10451): You are banned from this server!
+Reason: Banned by an operator.
+[14:57:16] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:10451) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[14:58:55] [Server thread/INFO]: <Klatrern> zZzZzZzZzZzZ
+[14:58:56] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:58:56] [Server thread/INFO]: Zikhoath left the game
+[14:58:59] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:58:59] [Server thread/INFO]: fuglseten left the game
+[14:59:00] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:59:00] [Server thread/INFO]: Bloody_fool left the game
+[14:59:02] [User Authenticator #923/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[14:59:02] [Server thread/INFO]: Zikhoath[/83.109.169.41:10651] logged in with entity id 22384046 at (1210.0203270916854, 61.968544749578996, 1849.4818883358837)
+[14:59:02] [Server thread/INFO]: Zikhoath joined the game
+[14:59:06] [User Authenticator #924/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[14:59:06] [Server thread/INFO]: fuglseten[/109.247.85.165:51623] logged in with entity id 22384582 at (88.69999998807909, 84.0, 94.07611590270506)
+[14:59:06] [Server thread/INFO]: fuglseten joined the game
+[14:59:07] [User Authenticator #925/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[14:59:07] [Server thread/INFO]: Bloody_fool[/82.169.221.232:49851] logged in with entity id 22387646 at (-54.789188075238116, 72.0, 175.6400785177543)
+[14:59:07] [Server thread/INFO]: Bloody_fool joined the game
+[15:00:07] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:00:07] [Server thread/INFO]: Zikhoath left the game
+[15:00:26] [User Authenticator #926/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[15:00:26] [Server thread/INFO]: Zikhoath[/83.109.169.41:10767] logged in with entity id 22396077 at (1205.9855843278658, 61.84132485065431, 1851.0581299554492)
+[15:00:26] [Server thread/INFO]: Zikhoath joined the game
+[15:01:22] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:01:22] [Server thread/INFO]: fuglseten left the game
+[15:09:43] [Server thread/INFO]: <Zikhoath> zzz
+[15:09:53] [User Authenticator #927/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[15:09:53] [Server thread/INFO]: fuglseten[/109.247.85.165:51631] logged in with entity id 22439205 at (253.63889636213878, 72.0, 149.68616533419117)
+[15:09:53] [Server thread/INFO]: fuglseten joined the game
+[15:10:13] [Server thread/INFO]: <fuglseten> sove?
+[15:10:20] [Server thread/INFO]: <Zikhoath> in
+[15:10:25] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:10:25] [Server thread/INFO]: fuglseten left the game
+[15:10:27] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:10:27] [Server thread/INFO]: Bloody_fool left the game
+[15:10:44] [User Authenticator #928/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[15:10:44] [Server thread/INFO]: Bloody_fool[/82.169.221.232:49859] logged in with entity id 22444371 at (-33.8603129660017, 69.0, 175.43655791340774)
+[15:10:44] [Server thread/INFO]: Bloody_fool joined the game
+[15:11:13] [User Authenticator #929/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[15:11:13] [Server thread/INFO]: fuglseten[/109.247.85.165:51637] logged in with entity id 22446950 at (248.769905892518, 72.0, 149.40496711428162)
+[15:11:13] [Server thread/INFO]: fuglseten joined the game
+[15:16:10] [Server thread/INFO]: <fuglseten> er du i treet ditt Zikoath?
+[15:16:15] [Server thread/INFO]: <Zikhoath> nei
+[15:16:25] [Server thread/INFO]: <Zikhoath> ser du brua
+[15:16:32] [Server thread/INFO]: <fuglseten> det er helt ?delagt jo
+[15:16:37] [Server thread/INFO]: <Zikhoath> jeg vet
+[15:16:43] [Server thread/INFO]: <Zikhoath> har flytta ut
+[15:16:47] [Server thread/INFO]: <fuglseten> er det t?rnet ditt?
+[15:16:55] [Server thread/INFO]: <Zikhoath> hvilket da
+[15:17:13] [Server thread/INFO]: <fuglseten> i enden av broa
+[15:17:15] [Server thread/INFO]: <Zikhoath> det er klatrern sitt
+[15:17:29] [Server thread/INFO]: <fuglseten> man kommer seg ikke p? broa
+[15:17:46] [Server thread/INFO]: <Zikhoath> den kommer aldri til ? bli ferdgi
+[15:18:00] [Server thread/INFO]: <Zikhoath> det er en spawner nede i hula
+[15:18:11] [Server thread/INFO]: <Zikhoath> du kan f? den
+[15:18:23] [Server thread/INFO]: <fuglseten> javel?
+[15:18:30] [Server thread/INFO]: <Bloody_fool> aldri knus spawnere gutta
+[15:18:30] [Server thread/INFO]: <fuglseten> kan man ta den med seg?
+[15:18:34] [Server thread/INFO]: <Bloody_fool> nei
+[15:18:43] [Server thread/INFO]: <Zikhoath> jeg har laget xp farm
+[15:18:47] [Server thread/INFO]: <fuglseten> hvorfor ikke knuse spawnere?
+[15:18:48] [Server thread/INFO]: <Zikhoath> sammen med fred
+[15:19:00] [Server thread/INFO]: <Zikhoath> du kan bruke de til ? lage xp-farms
+[15:19:17] [Server thread/INFO]: <Zikhoath> du f?r bare litt xp hvis du ?delegger den
+[15:19:24] [Server thread/INFO]: <fuglseten> ok
+[15:19:27] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:19:27] [Server thread/INFO]: fuglseten left the game
+[15:19:28] [Server thread/INFO]: <Bloody_fool> aldri gjor der
+[15:21:46] [Server thread/INFO]: <Klatrern> zZzZz
+[15:22:02] [Server thread/INFO]: <Zikhoath> in
+[15:22:03] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:22:03] [Server thread/INFO]: Bloody_fool left the game
+[15:22:08] [User Authenticator #930/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[15:22:08] [Server thread/INFO]: Bloody_fool[/82.169.221.232:49864] logged in with entity id 22502451 at (-95.35780811041037, 72.0, 304.3055617924611)
+[15:22:08] [Server thread/INFO]: Bloody_fool joined the game
+[15:23:44] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:23:44] [Server thread/INFO]: Zikhoath left the game
+[15:24:35] [User Authenticator #931/INFO]: UUID of player Netherlord is 6accd8a5a64446d1b6bf2bed5cb58364
+[15:24:35] [Server thread/INFO]: Netherlord[/109.247.85.165:64980] logged in with entity id 22511433 at (88.83265914797116, 70.0, 84.66859376461264)
+[15:24:35] [Server thread/INFO]: Netherlord joined the game
+[15:24:35] [User Authenticator #932/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[15:24:35] [Server thread/INFO]: Zikhoath[/83.109.169.41:12683] logged in with entity id 22514078 at (1083.5, 69.0, 1960.5)
+[15:24:35] [Server thread/INFO]: Zikhoath joined the game
+[15:24:41] [Server thread/INFO]: <Bloody_fool> hey
+[15:24:44] [Server thread/INFO]: <Netherlord> alright wes
+[15:24:49] [Server thread/INFO]: <Netherlord> I'm here
+[15:24:51] [Server thread/INFO]: <Bloody_fool> perfect timing
+[15:25:03] [Server thread/INFO]: <Bloody_fool> im just done cleaning up that thing at spawn
+[15:25:36] [Server thread/INFO]: <Netherlord> so
+[15:25:45] [Server thread/INFO]: <Netherlord> should I bring something in perticular?
+[15:25:55] [Server thread/INFO]: <Netherlord> oh
+[15:26:03] [Server thread/INFO]: <Netherlord> we're leaving for the meeting in a few minutes
+[15:26:04] [Server thread/INFO]: <Bloody_fool> idk man, just come to spawn with tools and well see what happens
+[15:26:09] [Server thread/INFO]: <Bloody_fool> ok lol
+[15:27:13] [Server thread/INFO]: <Bloody_fool> hvem har drivet og gravet ut rundt town hall?
+[15:27:20] [Server thread/INFO]: <Bloody_fool> det ser ikke ut her
+[15:27:38] [Server thread/INFO]: <Netherlord> ballz
+[15:28:08] [Server thread/INFO]: <Netherlord> wow
+[15:28:18] [Server thread/INFO]: <Netherlord> well someone's been at it
+[15:28:24] [Server thread/INFO]: <Bloody_fool> where?
+[15:28:28] [Server thread/INFO]: <Netherlord> here
+[15:28:38] [Server thread/INFO]: <Bloody_fool> yap
+[15:28:38] [Server thread/INFO]: <Netherlord> I mean
+[15:28:39] [Server thread/INFO]: <Netherlord> wow
+[15:28:47] [Server thread/INFO]: <Bloody_fool> so randomly too
+[15:28:50] [Server thread/INFO]: <Netherlord> yes
+[15:29:00] [Server thread/INFO]: <Netherlord> But I really have to go now
+[15:29:03] [Server thread/INFO]: <Netherlord> sry
+[15:29:06] [Server thread/INFO]: <Netherlord> I'll be back
+[15:29:06] [Server thread/INFO]: <Bloody_fool> ttyl
+[15:29:20] [Server thread/INFO]: Netherlord lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:29:20] [Server thread/INFO]: Netherlord left the game
+[15:30:24] [User Authenticator #933/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[15:30:24] [Server thread/INFO]: fuglseten[/109.247.85.165:51679] logged in with entity id 22540229 at (102.90285405651196, 66.0, 779.6244045571442)
+[15:30:24] [Server thread/INFO]: fuglseten joined the game
+[15:33:16] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:33:16] [Server thread/INFO]: Zikhoath left the game
+[15:35:41] [Server thread/INFO]: <fuglseten> hvordan har du kommet deg hit klatreren?
+[15:36:24] [Server thread/INFO]: <fuglseten> ?
+[15:37:05] [Server thread/INFO]: fuglseten starved to death
+[15:37:08] [User Authenticator #934/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[15:37:08] [Server thread/INFO]: Zikhoath[/83.109.169.41:13657] logged in with entity id 22564593 at (1051.205946861363, 36.0, 1957.0442935316994)
+[15:37:08] [Server thread/INFO]: Zikhoath joined the game
+[15:37:23] [Server thread/INFO]: <fuglseten> hvordan har du kommet deg hit Zikhoath?
+[15:37:30] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:37:30] [Server thread/INFO]: Bloody_fool left the game
+[15:37:40] [Server thread/INFO]: <Zikhoath> til mega taiga?
+[15:37:45] [Server thread/INFO]: <fuglseten> ja
+[15:38:22] [Server thread/INFO]: <Zikhoath> bare gikk og fant en t?ff biome
+[15:38:30] [Server thread/INFO]: <Zikhoath> som jeg ville lage hus i
+[15:38:57] [Server thread/INFO]: <fuglseten> har du laget portalen her? eller kom du deg hit ved hjelp av den?
+[15:39:25] [Server thread/INFO]: <Zikhoath> fred lagde den til meg
+[15:39:34] [Server thread/INFO]: <fuglseten> ok
+[15:39:36] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:39:36] [Server thread/INFO]: fuglseten left the game
+[15:43:38] [Server thread/INFO]: Klatrern fell from a high place
+[15:46:39] [Server thread/INFO]: Zikhoath was slain by Zombie
+[15:47:25] [Server thread/INFO]: Zikhoath was slain by Zombie
+[15:49:17] [Server thread/INFO]: Zikhoath was slain by Zombie
+[15:49:27] [User Authenticator #935/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[15:49:27] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:14059] logged in with entity id 22590121 at (-159.03906909429452, 82.0, 758.6948371243222)
+[15:49:27] [Server thread/INFO]: 98Minecraft99 joined the game
+[15:51:29] [Server thread/INFO]: 98Minecraft99 fell from a high place
+[15:52:38] [User Authenticator #936/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[15:52:38] [Server thread/INFO]: Bloody_fool[/82.169.221.232:51266] logged in with entity id 22598732 at (2.0791940514783938, 66.5, 168.09102381953522)
+[15:52:38] [Server thread/INFO]: Bloody_fool joined the game
+[15:53:39] [Server thread/INFO]: <Bloody_fool> spiller dere pa snapshotten?
+[15:54:16] [Server thread/INFO]: <98Minecraft99> nei
+[15:54:24] [Server thread/INFO]: Zikhoath was shot by Skeleton
+[15:54:29] [Server thread/INFO]: <Bloody_fool> det er noen bug fixes
+[15:54:52] [Server thread/INFO]: <Bloody_fool> og den er backwards compatable med 1.7
+[15:54:53] [Server thread/INFO]: <Zikhoath> det gj?r ikke noe for meg om vi gj?r det
+[15:55:02] [Server thread/INFO]: <Bloody_fool> sa serveren trenges ikke updares
+[15:55:12] [Server thread/INFO]: <98Minecraft99> ahh
+[15:55:34] [Server thread/INFO]: <98Minecraft99> skj??ner s? vi m? bare oppdatere clienten og kan da spille sammen med andre 1.7.2 clienter
+[15:55:51] [Server thread/INFO]: Zikhoath was shot by Skeleton
+[15:55:55] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:55:55] [Server thread/INFO]: 98Minecraft99 left the game
+[15:56:24] [Server thread/INFO]: <Bloody_fool> w
+[15:56:26] [Server thread/INFO]: <Bloody_fool> sove?
+[15:56:34] [Server thread/INFO]: <Zikhoath> nope
+[15:56:37] [Server thread/INFO]: <Bloody_fool> aaw
+[15:56:45] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:56:45] [Server thread/INFO]: Bloody_fool left the game
+[15:56:58] [Server thread/INFO]: Klatrern lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:56:58] [Server thread/INFO]: Klatrern left the game
+[15:58:41] [User Authenticator #937/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[15:58:41] [Server thread/INFO]: Klatrern[/83.109.169.41:14555] logged in with entity id 22608799 at (-166.30000001192093, 18.0, 805.4194583434843)
+[15:58:41] [Server thread/INFO]: Klatrern joined the game
+[15:59:27] [Server thread/INFO]: <Zikhoath> monsters nearby
+[15:59:33] [Server thread/INFO]: <Zikhoath> kan ikke sove
+[15:59:55] [Server thread/INFO]: <Zikhoath> in
+[15:59:59] [Server thread/INFO]: <Zikhoath> zzzzzz
+[16:00:05] [Server thread/INFO]: Klatrern lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:00:05] [Server thread/INFO]: Klatrern left the game
+[16:00:35] [User Authenticator #938/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[16:00:35] [Server thread/INFO]: Klatrern[/83.109.169.41:14674] logged in with entity id 22611222 at (-162.5021226291581, 17.0, 831.7979768621692)
+[16:00:35] [Server thread/INFO]: Klatrern joined the game
+[16:02:30] [Server thread/INFO]: Klatrern starved to death
+[16:02:32] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:02:32] [Server thread/INFO]: Zikhoath left the game
+[16:03:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2887ms behind, skipping 57 tick(s)
+[16:07:52] [User Authenticator #939/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[16:07:52] [Server thread/INFO]: Zikhoath[/83.109.169.41:15656] logged in with entity id 22623587 at (1075.0329548361412, 60.0, 1957.4005486651124)
+[16:07:52] [Server thread/INFO]: Zikhoath joined the game
+[16:12:54] [Server thread/INFO]: <Klatrern> ZzZzZzZ
+[16:12:55] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:12:55] [Server thread/INFO]: Zikhoath left the game
+[16:14:38] [User Authenticator #940/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[16:14:39] [Server thread/INFO]: Zikhoath[/83.109.169.41:16393] logged in with entity id 22637746 at (1049.300000011921, 33.0, 1956.699999988079)
+[16:14:39] [Server thread/INFO]: Zikhoath joined the game
+[16:16:22] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:16:22] [Server thread/INFO]: Zikhoath left the game
+[16:18:23] [Server thread/INFO]: Klatrern fell from a high place
+[16:19:14] [User Authenticator #941/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[16:19:14] [Server thread/INFO]: Zikhoath[/83.109.169.41:16756] logged in with entity id 22651223 at (1082.300000011921, 69.0, 1959.7036799874404)
+[16:19:14] [Server thread/INFO]: Zikhoath joined the game
+[16:34:20] [User Authenticator #942/INFO]: UUID of player podens is 4b902f415f304454bcaa9b46f3414eff
+[16:34:20] [Server thread/INFO]: Disconnecting GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:17995): You are banned from this server!
+Reason: Banned by an operator.
+[16:34:20] [Server thread/INFO]: GameProfile{id='4b902f415f304454bcaa9b46f3414eff', name='podens'} (/83.109.169.41:17995) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[16:38:24] [User Authenticator #943/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[16:38:24] [Server thread/INFO]: 98Minecraft99[/83.109.169.41:19705] logged in with entity id 22699869 at (1.7732522288649588, 66.5, 161.73946765065736)
+[16:38:24] [Server thread/INFO]: 98Minecraft99 joined the game
+[16:39:30] [Server thread/INFO]: <Zikhoath> sove
+[16:39:32] [User Authenticator #944/INFO]: UUID of player LolitaGothica is a777c14869bb46de83d1b3c41df5d183
+[16:39:32] [Server thread/INFO]: LolitaGothica[/88.91.90.176:50549] logged in with entity id 22705952 at (240.33158391884317, 58.0, 59.009776601334856)
+[16:39:32] [Server thread/INFO]: LolitaGothica joined the game
+[16:39:38] [Server thread/INFO]: <Zikhoath> sove?
+[16:40:26] [Server thread/INFO]: <98Minecraft99> drepa deg sigurd
+[16:40:33] [Server thread/INFO]: <Zikhoath> wot
+[16:40:45] [Server thread/INFO]: <98Minecraft99> din drit
+[16:40:46] [Server thread/INFO]: <Zikhoath> det er andreas ikke sant?
+[16:40:54] [Server thread/INFO]: <98Minecraft99> nai
+[16:40:57] [Server thread/INFO]: <LolitaGothica> ...
+[16:41:06] [Server thread/INFO]: <Zikhoath> andreas ble bannet
+[16:41:16] [Server thread/INFO]: <98Minecraft99> di mongo
+[16:41:23] [Server thread/INFO]: Klatrern was blown up by Creeper
+[16:41:59] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:41:59] [Server thread/INFO]: Zikhoath left the game
+[16:44:02] [Server thread/INFO]: Klatrern was shot by Skeleton
+[16:44:25] [Server thread/INFO]: Klatrern was blown up by Creeper
+[16:45:36] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:45:36] [Server thread/INFO]: 98Minecraft99 left the game
+[16:46:05] [Server thread/INFO]: Klatrern lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:46:05] [Server thread/INFO]: Klatrern left the game
+[16:46:37] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[16:46:48] [User Authenticator #945/INFO]: UUID of player Zikhoath is e657ed77863e449e856ab70250e4ed7d
+[16:46:48] [Server thread/INFO]: Zikhoath[/83.109.169.41:21715] logged in with entity id 22721636 at (1083.0286079615435, 69.0, 1959.8779057981014)
+[16:46:48] [Server thread/INFO]: Zikhoath joined the game
+[16:46:56] [Server thread/INFO]: Zikhoath lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:46:56] [Server thread/INFO]: Zikhoath left the game
+[16:47:07] [Server thread/INFO]: LolitaGothica was shot by Skeleton
+[16:50:40] [User Authenticator #946/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[16:50:40] [Server thread/INFO]: Klatrern[/83.109.169.41:22608] logged in with entity id 22725708 at (42.520557384350994, 63.99071086679494, 336.7296343377957)
+[16:50:40] [Server thread/INFO]: Klatrern joined the game
+[16:51:22] [Server thread/INFO]: Klatrern drowned
+[16:53:12] [Server thread/INFO]: LolitaGothica lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:53:12] [Server thread/INFO]: LolitaGothica left the game
+[17:01:32] [Server thread/INFO]: Klatrern was blown up by Creeper
+[17:04:02] [Server thread/INFO]: Klatrern lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:04:02] [Server thread/INFO]: Klatrern left the game
+[17:32:41] [User Authenticator #947/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[17:32:41] [Server thread/INFO]: Klatrern[/83.109.169.41:12457] logged in with entity id 22751640 at (-22.026376418835785, 62.555465684535605, 421.4568027242206)
+[17:32:41] [Server thread/INFO]: Klatrern joined the game
+[17:39:06] [Server thread/INFO]: Klatrern fell from a high place
+[17:39:24] [Server thread/WARN]: Klatrern moved wrongly!
+[17:39:41] [Server thread/INFO]: Klatrern was slain by Zombie
+[17:44:46] [Server thread/INFO]: Klatrern was shot by Skeleton
+[17:44:57] [Server thread/WARN]: Klatrern moved wrongly!
+[17:45:37] [Server thread/INFO]: Klatrern was slain by Zombie
+[17:47:08] [Server thread/INFO]: Klatrern fell from a high place
+[17:47:16] [User Authenticator #948/INFO]: UUID of player 98Minecraft99 is 71bdbfa01405413a9f2630b57122d360
+[17:47:16] [Server thread/INFO]: 98Minecraft99[/195.0.234.216:39140] logged in with entity id 22779923 at (11.489190025135908, 65.0, 206.9212356045946)
+[17:47:16] [Server thread/INFO]: 98Minecraft99 joined the game
+[17:50:30] [Server thread/INFO]: [98Minecraft99: Added Laularis to the whitelist]
+[17:52:02] [Server thread/INFO]: <98Minecraft99> hei, er det karl-martin?
+[17:52:22] [Server thread/INFO]: <Klatrern> ja
+[17:52:53] [Server thread/INFO]: 98Minecraft99 hit the ground too hard
+[17:56:00] [Server thread/INFO]: [98Minecraft99: Banned player zikhoatho8]
+[17:56:10] [Server thread/INFO]: <98Minecraft99> pardon zikhoatho8
+[17:56:15] [Server thread/INFO]: [98Minecraft99: Unbanned player zikhoatho8]
+[17:56:21] [Server thread/INFO]: <98Minecraft99> ban zikhoath
+[17:56:27] [Server thread/INFO]: [98Minecraft99: Banned player zikhoath]
+[17:56:35] [Server thread/INFO]: [98Minecraft99: Unbanned player zikhoath]
+[18:00:24] [Server thread/INFO]: <Klatrern> zZzZzZ
+[18:03:32] [User Authenticator #949/INFO]: UUID of player Laularis is 9f51d181d8ac440f98de58a03b179626
+[18:03:32] [Server thread/INFO]: Laularis[/195.0.234.216:57185] logged in with entity id 22832816 at (12.5, 65.0, 201.5)
+[18:03:32] [Server thread/INFO]: Laularis joined the game
+[18:03:46] [Server thread/INFO]: Laularis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:03:46] [Server thread/INFO]: Laularis left the game
+[18:03:47] [Server thread/INFO]: <98Minecraft99> hei laura
+[18:04:22] [User Authenticator #950/INFO]: UUID of player LolitaGothica is a777c14869bb46de83d1b3c41df5d183
+[18:04:22] [Server thread/INFO]: LolitaGothica[/88.91.90.176:53544] logged in with entity id 22833963 at (261.4720145842207, 63.0, 39.48001551503507)
+[18:04:22] [Server thread/INFO]: LolitaGothica joined the game
+[18:05:00] [Server thread/INFO]: <98Minecraft99> jeg sover, hvis dere vil kan dere disconnecte eller sove.
+[18:05:11] [Server thread/INFO]: LolitaGothica lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:05:11] [Server thread/INFO]: LolitaGothica left the game
+[18:06:21] [Server thread/INFO]: [98Minecraft99: Kicked Klatrern from the game]
+[18:06:21] [Server thread/INFO]: Klatrern lost connection: TextComponent{text='Kicked by an operator.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:06:21] [Server thread/INFO]: Klatrern left the game
+[18:06:29] [User Authenticator #951/INFO]: UUID of player Laularis is 9f51d181d8ac440f98de58a03b179626
+[18:06:29] [Server thread/INFO]: Laularis[/195.0.234.216:57701] logged in with entity id 22839721 at (12.964221577986635, 65.0, 201.60814241613258)
+[18:06:29] [Server thread/INFO]: Laularis joined the game
+[18:06:40] [User Authenticator #952/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[18:06:40] [Server thread/INFO]: Klatrern[/83.109.169.41:24561] logged in with entity id 22839807 at (-140.859326107729, 141.0, 732.7079450221325)
+[18:06:40] [Server thread/INFO]: Klatrern joined the game
+[18:07:40] [Server thread/INFO]: 98Minecraft99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:07:40] [Server thread/INFO]: 98Minecraft99 left the game
+[18:16:04] [Server thread/INFO]: Laularis has just earned the achievement [Taking Inventory]
+[18:16:12] [Server thread/INFO]: Laularis has just earned the achievement [Getting Wood]
+[18:18:11] [Server thread/INFO]: Laularis has just earned the achievement [Benchmarking]
+[18:18:28] [Server thread/INFO]: Klatrern was slain by Zombie
+[18:18:59] [User Authenticator #953/INFO]: UUID of player LolitaGothica is a777c14869bb46de83d1b3c41df5d183
+[18:18:59] [Server thread/INFO]: LolitaGothica[/88.91.90.176:54024] logged in with entity id 22906378 at (261.9954081868314, 63.0, 38.223518453113385)
+[18:18:59] [Server thread/INFO]: LolitaGothica joined the game
+[18:19:12] [User Authenticator #954/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[18:19:12] [Server thread/INFO]: Bloody_fool[/82.169.221.232:52007] logged in with entity id 22907603 at (-3.6168326186284165, 75.0, 158.97052149470915)
+[18:19:12] [Server thread/INFO]: Bloody_fool joined the game
+[18:19:18] [Server thread/INFO]: <Bloody_fool> hvem er laularis?
+[18:19:26] [Server thread/INFO]: <LolitaGothica> Dunno
+[18:19:36] [Server thread/INFO]: <Laularis> meg
+[18:19:41] [Server thread/INFO]: <Laularis> laura
+[18:19:47] [Server thread/INFO]: <Bloody_fool> aaa
+[18:19:52] [Server thread/INFO]: <Bloody_fool> kult at du er med
+[18:19:52] [Server thread/INFO]: Klatrern fell from a high place
+[18:20:13] [Server thread/INFO]: <Laularis> dritkult
+[18:20:18] [Server thread/INFO]: <Bloody_fool> ikr
+[18:20:39] [Server thread/INFO]: <Bloody_fool> hvorfor er det 2 creeper hull vegen
+[18:20:49] [Server thread/INFO]: Laularis has just earned the achievement [Time to Mine!]
+[18:20:49] [Server thread/INFO]: Laularis has just earned the achievement [Getting an Upgrade]
+[18:20:49] [Server thread/INFO]: <LolitaGothica> ?
+[18:21:07] [Server thread/INFO]: <Bloody_fool> 2 svaere hull i veien
+[18:22:10] [Server thread/INFO]: Klatrern was slain by Enderman
+[18:22:37] [Server thread/INFO]: Klatrern was shot by Skeleton
+[18:25:05] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:25:05] [Server thread/INFO]: Bloody_fool left the game
+[18:25:09] [Server thread/INFO]: Klatrern was slain by Enderman
+[18:25:35] [Server thread/INFO]: <Laularis> kan noen si ifra n?r d blir dag?
+[18:25:45] [Server thread/INFO]: <Laularis> sitter i en hule
+[18:25:46] [Server thread/INFO]: Klatrern was slain by Enderman
+[18:26:14] [Server thread/INFO]: <LolitaGothica> Jeg er nede i et hull med en spider over ingangen...
+[18:27:20] [Server thread/INFO]: <LolitaGothica> Det er dag n?.
+[18:27:27] [Server thread/INFO]: <Laularis> s? d
+[18:27:34] [Server thread/INFO]: Klatrern was slain by Enderman
+[18:28:58] [Server thread/INFO]: Laularis was blown up by Creeper
+[18:39:51] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[18:40:21] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[18:40:36] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[18:41:04] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[18:41:28] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[18:48:55] [Server thread/INFO]: LolitaGothica hit the ground too hard
+[18:51:26] [Server thread/INFO]: LolitaGothica has just earned the achievement [Time to Farm!]
+[18:52:23] [Server thread/INFO]: Laularis has just earned the achievement [Time to Strike!]
+[18:54:35] [User Authenticator #955/INFO]: UUID of player Kulterud is f7cd0880a92147bc960e15b74527438b
+[18:54:35] [Server thread/INFO]: Kulterud[/109.203.26.200:50772] logged in with entity id 23024540 at (146.48750001192093, 62.0, 180.30000001192096)
+[18:54:35] [Server thread/INFO]: Kulterud joined the game
+[18:54:50] [Server thread/INFO]: <Kulterud> hey
+[18:54:52] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.26.200:50767) lost connection: Disconnected
+[18:54:53] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.26.200:50768) lost connection: Disconnected
+[18:54:53] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.26.200:50770) lost connection: Disconnected
+[18:54:55] [Server thread/INFO]: <LolitaGothica> Hallo
+[18:55:06] [Server thread/INFO]: <Kulterud> u er?
+[18:55:19] [Server thread/INFO]: <LolitaGothica> Karl
+[18:55:34] [Server thread/INFO]: <LolitaGothica> Fred eller Kriss?
+[18:55:43] [Server thread/INFO]: <Kulterud> lol regnet egentlig med det ;P p? grund avnavnet :P
+[18:56:02] [Server thread/INFO]: <LolitaGothica> Tenkte meg det
+[18:57:51] [Server thread/INFO]: Klatrern starved to death
+[18:57:57] [Server thread/INFO]: <Kulterud> :(
+[18:59:50] [Server thread/INFO]: Laularis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:59:50] [Server thread/INFO]: Laularis left the game
+[19:02:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)
+[19:03:24] [Server thread/INFO]: <LolitaGothica> Er serveren modda?
+[19:03:41] [Server thread/INFO]: <Kulterud> nei er ikke det!hvorfor lurer du p? det?
+[19:03:57] [Server thread/INFO]: <LolitaGothica> Det er et halvt tusen mobs rundt meg.
+[19:04:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2221ms behind, skipping 44 tick(s)
+[19:04:20] [Server thread/INFO]: <Kulterud> lol, dem har fikset mobspawning for og gj?re det vanskligere
+[19:04:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3068ms behind, skipping 61 tick(s)
+[19:04:46] [Server thread/INFO]: <LolitaGothica> Forklarer litt
+[19:04:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2851ms behind, skipping 57 tick(s)
+[19:05:04] [Server thread/INFO]: <Kulterud> er det du som har byggd siden av meg
+[19:05:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4543ms behind, skipping 90 tick(s)
+[19:05:15] [Server thread/INFO]: <LolitaGothica> Tror ikke det
+[19:05:22] [Server thread/INFO]: <LolitaGothica> Jeg har bygd p? en flate
+[19:05:28] [Server thread/INFO]: <Kulterud> oki
+[19:05:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4613ms behind, skipping 92 tick(s)
+[19:05:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2409ms behind, skipping 48 tick(s)
+[19:05:48] [Server thread/INFO]: <LolitaGothica> Er i n?rheten av Ole Johan og fugleset
+[19:06:00] [Server thread/INFO]: <Kulterud> ok trur jeg vet hvor du bor
+[19:06:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2046ms behind, skipping 40 tick(s)
+[19:06:06] [Server thread/INFO]: LolitaGothica was slain by Spider
+[19:06:10] [Server thread/INFO]: <Kulterud> :(
+[19:06:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2668ms behind, skipping 53 tick(s)
+[19:07:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3529ms behind, skipping 70 tick(s)
+[19:07:47] [Server thread/INFO]: Kulterud was slain by Iron Golem
+[19:07:56] [Server thread/INFO]: <LolitaGothica> Ny mob?
+[19:08:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2658ms behind, skipping 53 tick(s)
+[19:08:23] [Server thread/INFO]: <Kulterud> nei, den passer p? vilagers du kan lage den selv
+[19:08:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8196ms behind, skipping 163 tick(s)
+[19:09:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2543ms behind, skipping 50 tick(s)
+[19:09:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3399ms behind, skipping 67 tick(s)
+[19:09:59] [Server thread/INFO]: <LolitaGothica> Mega lag og creeper inni basen min ;_;
+[19:10:08] [Server thread/INFO]: <Kulterud> trur det er meg
+[19:10:17] [Server thread/INFO]: <Kulterud> skal fikse det
+[19:10:37] [Server thread/INFO]: <LolitaGothica> Tviler, ser p? en stream og det lagger
+[19:10:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2604ms behind, skipping 52 tick(s)
+[19:11:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4004ms behind, skipping 80 tick(s)
+[19:11:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2440ms behind, skipping 48 tick(s)
+[19:12:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2562ms behind, skipping 51 tick(s)
+[19:13:02] [Server thread/INFO]: Klatrern fell from a high place
+[19:13:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2438ms behind, skipping 48 tick(s)
+[19:13:26] [Server thread/INFO]: LolitaGothica has just earned the achievement [Bake Bread]
+[19:16:30] [Server thread/INFO]: Kulterud lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:16:30] [Server thread/INFO]: Kulterud left the game
+[19:22:23] [Server thread/INFO]: Klatrern lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:22:23] [Server thread/INFO]: Klatrern left the game
+[19:23:01] [User Authenticator #956/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[19:23:01] [Server thread/INFO]: Klatrern[/83.109.169.41:23196] logged in with entity id 23110551 at (92.84406876801414, 67.0, 758.3777530061908)
+[19:23:01] [Server thread/INFO]: Klatrern joined the game
+[19:23:34] [Server thread/INFO]: Klatrern was blown up by Creeper
+[19:37:37] [Server thread/INFO]: LolitaGothica lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:37:37] [Server thread/INFO]: LolitaGothica left the game
+[19:38:28] [User Authenticator #957/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[19:38:28] [Server thread/INFO]: fuglseten[/109.247.85.165:51737] logged in with entity id 23147738 at (99.70007575407108, 66.0, 778.1102926909)
+[19:38:28] [Server thread/INFO]: fuglseten joined the game
+[19:38:36] [Server thread/INFO]: <fuglseten> sove?
+[19:40:07] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:40:07] [Server thread/INFO]: fuglseten left the game
+[19:42:24] [Server thread/INFO]: Klatrern was slain by Enderman
+[19:49:03] [Server thread/INFO]: Klatrern starved to death
+[20:00:03] [Server thread/INFO]: Klatrern was shot by Skeleton
+[20:00:14] [Server thread/INFO]: <Klatrern> d
+[20:09:02] [Server thread/INFO]: Klatrern drowned
+[20:11:52] [User Authenticator #958/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[20:11:52] [Server thread/INFO]: fuglseten[/109.247.85.165:51771] logged in with entity id 23206922 at (115.78242536046422, 66.5, 785.798504314439)
+[20:11:52] [Server thread/INFO]: fuglseten joined the game
+[20:12:03] [Server thread/INFO]: <fuglseten> sove?
+[20:12:21] [Server thread/INFO]: <Klatrern> ja
+[20:12:37] [Server thread/INFO]: <fuglseten> ...
+[20:20:22] [User Authenticator #959/INFO]: UUID of player SQUIGGLE_FACE is ba16ef81c7ea4fe398e0ba4db8e11158
+[20:20:22] [Server thread/INFO]: SQUIGGLE_FACE[/109.203.26.200:56867] logged in with entity id 23229836 at (237.9971788220879, 67.0, 454.67095598654237)
+[20:20:22] [Server thread/INFO]: SQUIGGLE_FACE joined the game
+[20:25:41] [User Authenticator #960/INFO]: UUID of player LolitaGothica is a777c14869bb46de83d1b3c41df5d183
+[20:25:41] [Server thread/INFO]: LolitaGothica[/88.91.90.176:57627] logged in with entity id 23248746 at (245.5, 52.0, 52.5)
+[20:25:41] [Server thread/INFO]: LolitaGothica joined the game
+[20:26:32] [Server thread/INFO]: SQUIGGLE_FACE lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:26:32] [Server thread/INFO]: SQUIGGLE_FACE left the game
+[20:27:23] [User Authenticator #961/INFO]: UUID of player SQUIGGLE_FACE is ba16ef81c7ea4fe398e0ba4db8e11158
+[20:27:23] [Server thread/INFO]: SQUIGGLE_FACE[/109.203.26.200:57212] logged in with entity id 23254289 at (232.0208572984783, 68.93612497923645, 451.88587210772795)
+[20:27:23] [Server thread/INFO]: SQUIGGLE_FACE joined the game
+[20:32:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2639ms behind, skipping 52 tick(s)
+[20:32:18] [Server thread/INFO]: <SQUIGGLE_FACE> sove ?
+[20:32:34] [Server thread/INFO]: <SQUIGGLE_FACE> bare glem det :P
+[20:32:48] [Server thread/INFO]: <fuglseten> sove?
+[20:32:54] [Server thread/INFO]: <fuglseten> nei
+[20:33:33] [Server thread/INFO]: <SQUIGGLE_FACE> hahahaXD Noob som snakker her veit u :P
+[20:33:42] [Server thread/INFO]: <fuglseten> ?
+[20:34:53] [Server thread/INFO]: <SQUIGGLE_FACE> har spilt 2 ganger f?r ;)
+[20:34:59] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[20:35:12] [Server thread/INFO]: <fuglseten> Hvem er du?
+[20:35:19] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[20:35:45] [Server thread/INFO]: Klatrern was blown up by Creeper
+[20:35:54] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[20:35:55] [Server thread/INFO]: <Klatrern> ja ja
+[20:37:23] [Server thread/INFO]: <LolitaGothica> Jeg er fra Valdres
+[20:37:29] [Server thread/INFO]: <fuglseten> hvem?
+[20:37:35] [Server thread/INFO]: <LolitaGothica> Karl Kulterud
+[20:37:40] [Server thread/INFO]: <fuglseten> ok
+[20:38:37] [Server thread/INFO]: <fuglseten> klatreren?
+[20:38:45] [Server thread/INFO]: <Klatrern> ja
+[20:39:13] [Server thread/INFO]: <fuglseten> kunne jeg f?tt litt cobblestone av deg? Er det ikke du som har s? mye fra hula deres?
+[20:40:28] [Server thread/INFO]: <Klatrern> nei
+[20:40:32] [Server thread/INFO]: <fuglseten> ok
+[20:42:42] [Server thread/INFO]: LolitaGothica was slain by Zombie
+[20:45:00] [Server thread/INFO]: <fuglseten> sove?
+[20:45:59] [Server thread/INFO]: Klatrern drowned
+[20:46:02] [Server thread/INFO]: <Klatrern> ja ja
+[20:46:59] [User Authenticator #962/INFO]: UUID of player Kulterud is f7cd0880a92147bc960e15b74527438b
+[20:46:59] [Server thread/INFO]: Kulterud[/109.203.30.36:52247] logged in with entity id 23328124 at (-62.52777082787461, 72.0, -306.8960911329804)
+[20:46:59] [Server thread/INFO]: Kulterud joined the game
+[20:47:03] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52243) lost connection: Disconnected
+[20:47:04] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52244) lost connection: Disconnected
+[20:47:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
+[20:47:06] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52245) lost connection: Disconnected
+[20:47:08] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52246) lost connection: Disconnected
+[20:47:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2121ms behind, skipping 42 tick(s)
+[20:47:25] [Server thread/INFO]: Kulterud lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:47:25] [Server thread/INFO]: Kulterud left the game
+[20:47:41] [Server thread/INFO]: <Klatrern> zZzZzZzZ
+[20:47:53] [Server thread/INFO]: <fuglseten> zzzz
+[20:48:22] [User Authenticator #963/INFO]: UUID of player Kulterud is f7cd0880a92147bc960e15b74527438b
+[20:48:22] [Server thread/INFO]: Kulterud[/109.203.30.36:52271] logged in with entity id 23331739 at (-62.52777082787461, 72.0, -306.8960911329804)
+[20:48:22] [Server thread/INFO]: Kulterud joined the game
+[20:48:29] [Server thread/INFO]: SQUIGGLE_FACE was slain by Zombie
+[20:48:30] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52267) lost connection: Disconnected
+[20:48:30] [Server thread/INFO]: <LolitaGothica> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZz
+[20:48:31] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52268) lost connection: Disconnected
+[20:48:33] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52269) lost connection: Disconnected
+[20:48:34] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52270) lost connection: Disconnected
+[20:48:41] [Server thread/INFO]: <Kulterud> sove?
+[20:48:50] [Server thread/INFO]: <LolitaGothica> Mulig
+[20:48:58] [Server thread/INFO]: <Kulterud> jeg kan
+[20:49:16] [Server thread/INFO]: <LolitaGothica> Helst
+[20:49:23] [Server thread/INFO]: <Klatrern> ZzZzZzZ
+[20:49:25] [Server thread/INFO]: <fuglseten> ZZzzzzzzz
+[20:49:33] [Server thread/INFO]: <Kulterud> in
+[20:50:02] [Server thread/INFO]: <fuglseten> squggle_face?
+[20:50:22] [Server thread/INFO]: <Kulterud> Kriss?
+[20:50:42] [Server thread/INFO]: <fuglseten> sov
+[20:50:48] [Server thread/INFO]: <Kulterud> gidder ikke vente la det v?re natt
+[20:50:55] [Server thread/INFO]: <fuglseten> noooo... monsters near by
+[20:51:13] [Server thread/INFO]: <fuglseten> zzzz
+[20:51:31] [Server thread/INFO]: <Klatrern> ????
+[20:51:36] [Server thread/INFO]: <Kulterud> jeg sover ikke
+[20:51:59] [Server thread/INFO]: Kulterud was slain by Zombie
+[20:52:04] [Server thread/INFO]: <Kulterud> lol
+[20:52:05] [Server thread/INFO]: <LolitaGothica> Lol
+[20:52:19] [Server thread/INFO]: <LolitaGothica> The irony.
+[20:52:43] [Server thread/INFO]: <Kulterud> det er snart dag :?
+[20:52:55] [Server thread/INFO]: <Klatrern> ja ja
+[20:53:04] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:53:04] [Server thread/INFO]: fuglseten left the game
+[20:53:09] [User Authenticator #964/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[20:53:09] [Server thread/INFO]: fuglseten[/109.247.85.165:51794] logged in with entity id 23347259 at (96.30808047250343, 64.0, 789.5870567693656)
+[20:53:09] [Server thread/INFO]: fuglseten joined the game
+[20:53:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2582ms behind, skipping 51 tick(s)
+[20:53:53] [Server thread/INFO]: <fuglseten> hvorfor lager du den broa klatreren?
+[20:55:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2386ms behind, skipping 47 tick(s)
+[20:55:19] [Server thread/INFO]: <Kulterud> skjer med teksturen p? kister?
+[20:55:20] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:55:20] [Server thread/INFO]: fuglseten left the game
+[20:55:24] [User Authenticator #965/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[20:55:24] [Server thread/INFO]: fuglseten[/109.247.85.165:51797] logged in with entity id 23363840 at (89.46057972433806, 66.0, 794.3622890387779)
+[20:55:24] [Server thread/INFO]: fuglseten joined the game
+[20:55:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3407ms behind, skipping 68 tick(s)
+[20:55:42] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:55:42] [Server thread/INFO]: fuglseten left the game
+[20:55:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3039ms behind, skipping 60 tick(s)
+[20:55:49] [User Authenticator #966/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[20:55:49] [Server thread/INFO]: fuglseten[/109.247.85.165:51800] logged in with entity id 23366201 at (89.33572562328078, 65.0, 796.6999999880791)
+[20:55:49] [Server thread/INFO]: fuglseten joined the game
+[20:56:09] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:56:09] [Server thread/INFO]: fuglseten left the game
+[20:56:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2052ms behind, skipping 41 tick(s)
+[20:57:05] [Server thread/INFO]: <LolitaGothica> Hva mener du med texturen?
+[20:57:12] [Server thread/INFO]: <LolitaGothica> Ser normalt ut for meg.
+[20:57:17] [Server thread/INFO]: <Kulterud> kistene mine er helt vite
+[20:57:20] [Server thread/INFO]: <Kulterud> hvite*
+[21:00:06] [Server thread/INFO]: Klatrern drowned
+[21:06:29] [User Authenticator #967/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[21:06:29] [Server thread/INFO]: fuglseten[/109.247.85.165:51812] logged in with entity id 23405117 at (89.33572562328078, 65.0, 796.6999999880791)
+[21:06:29] [Server thread/INFO]: fuglseten joined the game
+[21:06:47] [Server thread/INFO]: <Kulterud> folk drimer med da?
+[21:06:59] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:06:59] [Server thread/INFO]: fuglseten left the game
+[21:07:03] [User Authenticator #968/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[21:07:03] [Server thread/INFO]: fuglseten[/109.247.85.165:51815] logged in with entity id 23406558 at (90.71748192714281, 65.53584062504456, 799.2911046882326)
+[21:07:03] [Server thread/INFO]: fuglseten joined the game
+[21:07:05] [Server thread/INFO]: <LolitaGothica> Har lagd en farm, n? lager jeg en farm under farmen
+[21:07:16] [Server thread/INFO]: SQUIGGLE_FACE was shot by Skeleton
+[21:07:32] [Server thread/INFO]: SQUIGGLE_FACE lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:07:32] [Server thread/INFO]: SQUIGGLE_FACE left the game
+[21:07:44] [Server thread/INFO]: <LolitaGothica> Som bruker det samme vannet som den over.
+[21:07:55] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:07:55] [Server thread/INFO]: fuglseten left the game
+[21:08:10] [User Authenticator #969/INFO]: UUID of player fuglseten is 2c10347e39f64aefa2a658ad11e6f438
+[21:08:10] [Server thread/INFO]: fuglseten[/109.247.85.165:51818] logged in with entity id 23409369 at (90.52806962201129, 65.0, 789.6287609135894)
+[21:08:10] [Server thread/INFO]: fuglseten joined the game
+[21:08:32] [Server thread/INFO]: <Kulterud> wow, komplisert men prity awsome :P
+[21:08:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2141ms behind, skipping 42 tick(s)
+[21:08:40] [Server thread/INFO]: <Kulterud> n?r startet du karl?
+[21:08:48] [Server thread/INFO]: <LolitaGothica> I overig?r.
+[21:08:49] [Server thread/INFO]: fuglseten lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:08:49] [Server thread/INFO]: fuglseten left the game
+[21:09:05] [Server thread/INFO]: <LolitaGothica> Driver ogs? med en trapp ned til rundt Y14
+[21:09:22] [Server thread/INFO]: <Kulterud> synes du at du har kommet godt i gang? mob trap?
+[21:10:08] [Server thread/INFO]: <LolitaGothica> Nei, har tenkt ? lage et slags slott, s? jeg vil ha et rom langt nede.
+[21:10:18] [Server thread/INFO]: <Kulterud> oki
+[21:10:27] [User Authenticator #970/INFO]: UUID of player SQUIGGLE_FACE is ba16ef81c7ea4fe398e0ba4db8e11158
+[21:10:28] [Server thread/INFO]: SQUIGGLE_FACE[/109.203.26.200:58720] logged in with entity id 23415148 at (15.060378272731665, 64.0, 241.75979407589145)
+[21:10:28] [Server thread/INFO]: SQUIGGLE_FACE joined the game
+[21:11:09] [Server thread/INFO]: <LolitaGothica> Tror ikke jeg kommer til ? lage kompliserte ting.
+[21:11:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2021ms behind, skipping 40 tick(s)
+[21:11:34] [Server thread/INFO]: <Kulterud> ok, det trenge jo ikke v?re komplisert :P
+[21:11:43] [Server thread/INFO]: <LolitaGothica> Jeg tenker p? mekaniske ting.
+[21:11:50] [Server thread/INFO]: <LolitaGothica> Som mob traps og lignende
+[21:11:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2157ms behind, skipping 43 tick(s)
+[21:11:54] [Server thread/INFO]: <Kulterud> det enkleste er oftest det beste :P kj?nnete det
+[21:12:02] [Server thread/INFO]: SQUIGGLE_FACE was blown up by Creeper
+[21:12:14] [Server thread/INFO]: <Kulterud> skipt
+[21:12:27] [Server thread/INFO]: <SQUIGGLE_FACE> mhm :/
+[21:12:35] [Server thread/INFO]: Kulterud fell from a high place
+[21:12:39] [Server thread/INFO]: <Kulterud> lol
+[21:12:44] [Server thread/INFO]: <LolitaGothica> Foresten, hva er greia med midget zombiene?
+[21:12:51] [Server thread/INFO]: <LolitaGothica> Overpowered som fy
+[21:13:13] [Server thread/INFO]: <Kulterud> jeg hvet mojang ville gj?re spille vanskligere :P de greide det :P
+[21:13:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2482ms behind, skipping 49 tick(s)
+[21:13:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2291ms behind, skipping 45 tick(s)
+[21:14:57] [Server thread/INFO]: <LolitaGothica> Jeg ble drept av en zombie i stad, men han hadde ingen m?ter ? komme inn eller ut av basen min.
+[21:15:21] [Server thread/INFO]: <Kulterud> hadde du skadet en zombie f?r det
+[21:15:29] [Server thread/INFO]: <LolitaGothica> Mulig
+[21:16:08] [Server thread/INFO]: <Kulterud> for dem kan "kalle" til seg flere zombier, det er mulig at den spawnet bak deg
+[21:16:14] [Server thread/INFO]: <Kulterud> inne i huset ditt
+[21:16:29] [Server thread/INFO]: <LolitaGothica> Men burde ikke han fortsatt v?re der?
+[21:16:39] [Server thread/INFO]: <Kulterud> sant :P
+[21:16:41] [Server thread/INFO]: <LolitaGothica> Det var ingen zombie n?r jeg respawna
+[21:17:01] [Server thread/INFO]: <Kulterud> rart?, kansje en b?gg?
+[21:17:05] [Server thread/INFO]: <LolitaGothica> Og han drepte meg p? mindre enn 2 sek med Steel pickaxe
+[21:17:26] [Server thread/INFO]: <LolitaGothica> Slo mye raskere en vanlig.
+[21:17:27] [Server thread/INFO]: <Kulterud> ja de skader sykt mye vis du ikke har rustning
+[21:17:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
+[21:18:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3369ms behind, skipping 67 tick(s)
+[21:18:27] [Server thread/INFO]: <LolitaGothica> Forresten, er ikke du p? et annet sted enn ?ya?
+[21:18:50] [Server thread/INFO]: <Kulterud> nei jeg bor p? ?ya :P
+[21:19:02] [Server thread/INFO]: <LolitaGothica> Vent, kriss eller fred?
+[21:19:18] [Server thread/INFO]: <Kulterud> jeg er fred, kriss bor uten for ?ya
+[21:19:49] [Server thread/INFO]: <LolitaGothica> Ah, ok
+[21:21:50] [Server thread/INFO]: Klatrern lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:21:50] [Server thread/INFO]: Klatrern left the game
+[21:21:53] [User Authenticator #971/INFO]: UUID of player Klatrern is 7afd3d82f3ef4a2c8df745c4309422bc
+[21:21:53] [Server thread/INFO]: Klatrern[/83.109.169.41:12517] logged in with entity id 23460357 at (-168.9587065182088, 19.5, 851.1804292597352)
+[21:21:53] [Server thread/INFO]: Klatrern joined the game
+[21:22:02] [Server thread/INFO]: SQUIGGLE_FACE was slain by Zombie
+[21:25:48] [Server thread/INFO]: <LolitaGothica> Er skeleton spawneren til fritt bruk?
+[21:26:07] [Server thread/INFO]: <LolitaGothica> Har tenkt ? farme wood, og det er slitsomt ? plante en hel skog
+[21:26:23] [Server thread/INFO]: <Kulterud> et sek
+[21:26:55] [Server thread/INFO]: <Kulterud> der er fri bruk p? den :P
+[21:27:16] [Server thread/INFO]: <Kulterud> men det er en b?gg med piler som m? fikses snart s? det kan lagge litt
+[21:27:21] [Server thread/INFO]: <LolitaGothica> Ok, greit ? vite
+[21:27:25] [Server thread/INFO]: <LolitaGothica> Har merka det.
+[21:28:02] [Server thread/INFO]: <Kulterud> lol s? det slo ned
+[21:28:53] [Server thread/INFO]: <Kulterud> buggen er borte det laGGER IKKE LENGER :d
+[21:29:23] [Server thread/INFO]: Kulterud lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:29:23] [Server thread/INFO]: Kulterud left the game
+[21:29:50] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52316) lost connection: Disconnected
+[21:29:54] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52318) lost connection: Disconnected
+[21:29:55] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52319) lost connection: Disconnected
+[21:29:55] [User Authenticator #972/INFO]: UUID of player Kulterud is f7cd0880a92147bc960e15b74527438b
+[21:29:55] [Server thread/INFO]: Kulterud[/109.203.30.36:52328] logged in with entity id 23480919 at (255.45169214876992, 72.0, 149.2959721330538)
+[21:29:55] [Server thread/INFO]: Kulterud joined the game
+[21:29:57] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52320) lost connection: Disconnected
+[21:29:58] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52321) lost connection: Disconnected
+[21:30:00] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52322) lost connection: Disconnected
+[21:30:02] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52323) lost connection: Disconnected
+[21:30:09] [Server thread/INFO]: SQUIGGLE_FACE was slain by Zombie
+[21:30:09] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52325) lost connection: Disconnected
+[21:30:10] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52326) lost connection: Disconnected
+[21:30:12] [Server thread/INFO]: GameProfile{id='null', name='Kulterud'} (/109.203.30.36:52327) lost connection: Disconnected
+[21:30:33] [Server thread/INFO]: Klatrern suffocated in a wall
+[21:30:40] [Server thread/INFO]: <Kulterud> lol
+[21:30:59] [Server thread/INFO]: <Klatrern> : )
+[21:30:59] [Server thread/INFO]: SQUIGGLE_FACE lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:30:59] [Server thread/INFO]: SQUIGGLE_FACE left the game
+[21:31:23] [User Authenticator #973/INFO]: UUID of player SQUIGGLE_FACE is ba16ef81c7ea4fe398e0ba4db8e11158
+[21:31:23] [Server thread/INFO]: SQUIGGLE_FACE[/109.203.26.200:59163] logged in with entity id 23484498 at (90.64342353624087, 80.0, 268.40362667712634)
+[21:31:23] [Server thread/INFO]: SQUIGGLE_FACE joined the game
+[21:32:28] [Server thread/INFO]: Klatrern suffocated in a wall
+[21:37:15] [Server thread/INFO]: Klatrern suffocated in a wall
+[21:37:29] [Server thread/INFO]: <Kulterud> trenge du hjelp?
+[21:38:54] [Server thread/INFO]: <Kulterud> karl bor du rett siden av skeleton farmen?
+[21:38:59] [Server thread/INFO]: <LolitaGothica> Ja
+[21:39:02] [Server thread/INFO]: <Kulterud> oki
+[21:39:21] [Server thread/INFO]: <LolitaGothica> Det er en cobblestone firkant ved siden av en farm
+[21:39:38] [Server thread/INFO]: <Kulterud> bor du under den?w
+[21:39:52] [Server thread/INFO]: <LolitaGothica> Ikke akkurat
+[21:40:05] [Server thread/INFO]: <Kulterud> ser deg
+[21:40:09] [Server thread/INFO]: <LolitaGothica> Har ikke startet p? bygningen, trengte bare et safe sted
+[21:40:11] [Server thread/INFO]: <Kulterud> truur jeg
+[21:40:32] [Server thread/INFO]: <Kulterud> hey
+[21:40:44] [Server thread/INFO]: <LolitaGothica> Hallo?
+[21:40:57] [Server thread/INFO]: <Kulterud> lol felixs har ikke fjernet pranken :P HEy
+[21:41:07] [Server thread/INFO]: <Kulterud> laggg
+[21:41:11] [Server thread/INFO]: <LolitaGothica> ???
+[21:41:16] [Server thread/INFO]: <LolitaGothica> Prank?
+[21:41:26] [Server thread/INFO]: <Kulterud> se i himelen
+[21:41:32] [Server thread/INFO]: <Kulterud> over fjellet
+[21:41:41] [Server thread/INFO]: <Kulterud> ser du det
+[21:41:53] [Server thread/INFO]: <LolitaGothica> satt opp render distance
+[21:42:15] [Server thread/INFO]: <LolitaGothica> ser det ikke.
+[21:42:45] [Server thread/INFO]: <Kulterud> er h?yt oppe i lufta over huset hans :P han fjernet sikket bare sanden og ikke gikk opp stigen
+[21:43:05] [Server thread/INFO]: SQUIGGLE_FACE fell from a high place
+[21:43:10] [Server thread/INFO]: <Kulterud> men det er sykt latlig at n?r du ser p? skeletonfarmen lagger det sykt
+[21:43:42] [Server thread/INFO]: <LolitaGothica> ser sanden...
+[21:43:48] [Server thread/INFO]: <LolitaGothica> wut
+[21:43:53] [Server thread/INFO]: <Kulterud> er ikke sand :P
+[21:44:04] [Server thread/INFO]: <LolitaGothica> Det er?
+[21:44:11] [Server thread/INFO]: <Kulterud> det er stone slabs hvet ikke hvorfor det ser slik ut
+[21:44:49] [Server thread/INFO]: SQUIGGLE_FACE lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:44:49] [Server thread/INFO]: SQUIGGLE_FACE left the game
+[21:45:14] [Server thread/INFO]: <Kulterud> har du en crafting benk
+[21:45:17] [Server thread/INFO]: <Kulterud> karl
+[21:45:24] [Server thread/INFO]: <LolitaGothica> Ja
+[21:45:30] [Server thread/INFO]: Klatrern lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:45:30] [Server thread/INFO]: Klatrern left the game
+[21:45:43] [Server thread/INFO]: <LolitaGothica> Hvordan det?
+[21:46:44] [Server thread/INFO]: <Kulterud> hadde bare r? kyling :P
+[21:47:01] [Server thread/INFO]: <Kulterud> kan jeg se?
+[21:47:05] [Server thread/INFO]: <LolitaGothica> Ja
+[21:47:15] [Server thread/INFO]: <LolitaGothica> Det er bare en trapp akkurat n?
+[21:48:29] [Server thread/INFO]: <Kulterud> syke s? langt!, skal du ha en becon med speed? for og komme deg fort opp og ned? det ville jeg ha
+[21:48:40] [Server thread/INFO]: <Kulterud> skaffet meg vis jeg skule ha s? mye trapper
+[21:48:59] [Server thread/INFO]: <LolitaGothica> Tenkte ikke over at det fantes
+[21:49:19] [Server thread/INFO]: <LolitaGothica> Har bare h?rt om det.
+[21:49:41] [Server thread/INFO]: <Kulterud> det finnes :P har en i basen min :D
+[21:49:47] [Server thread/INFO]: <Kulterud> sykt digg
+[21:49:59] [Server thread/INFO]: <Kulterud> skulle du ha bein ?
+[21:50:02] [Server thread/INFO]: <LolitaGothica> Er de ikke dyre ? lage?
+[21:50:07] [Server thread/INFO]: <LolitaGothica> Gjerne
+[21:50:27] [Server thread/INFO]: <LolitaGothica> Litt overkill...
+[21:50:29] [Server thread/INFO]: <LolitaGothica> Takke
+[21:50:30] [Server thread/INFO]: <Kulterud> ja tar tid men ikke s? dyrt
+[21:50:44] [Server thread/INFO]: <Kulterud> aldri for mye bone! .P
+[21:53:53] [Server thread/INFO]: <Kulterud> men sikker! snakkes :D
+[21:53:55] [Server thread/INFO]: Kulterud lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:53:55] [Server thread/INFO]: Kulterud left the game
+[21:56:41] [Server thread/INFO]: LolitaGothica was shot by Skeleton
+[21:57:02] [Server thread/INFO]: LolitaGothica was shot by Skeleton
+[21:58:28] [User Authenticator #974/INFO]: UUID of player SQUIGGLE_FACE is ba16ef81c7ea4fe398e0ba4db8e11158
+[21:58:28] [Server thread/INFO]: SQUIGGLE_FACE[/109.203.26.200:60038] logged in with entity id 23548874 at (19.677167247729805, 64.0, 242.51521338686445)
+[21:58:28] [Server thread/INFO]: SQUIGGLE_FACE joined the game
+[22:02:40] [User Authenticator #975/INFO]: UUID of player Bloody_fool is e0164445d7454ab69fe3dd6f2ca56f36
+[22:02:40] [Server thread/INFO]: Bloody_fool[/82.169.221.232:52633] logged in with entity id 23559015 at (63.52654401604342, 89.0, 268.29753814485343)
+[22:02:40] [Server thread/INFO]: Bloody_fool joined the game
+[22:02:55] [Server thread/INFO]: <Bloody_fool> SQUIGGLE FACEE!!!!!!
+[22:03:03] [Server thread/INFO]: <Bloody_fool> WHAZZAAAAAAAAAaa
+[22:03:05] [Server thread/INFO]: <SQUIGGLE_FACE> jepp jepp :)
+[22:03:13] [Server thread/INFO]: <SQUIGGLE_FACE> savna meg :P
+[22:03:25] [Server thread/INFO]: <Bloody_fool> you know it!
+[22:03:40] [Server thread/INFO]: <SQUIGGLE_FACE> hehe X)
+[22:03:56] [Server thread/INFO]: <Bloody_fool> men hva skjer med fred?
+[22:04:05] [Server thread/INFO]: <Bloody_fool> han hakke vert pa pa lenge
+[22:04:06] [Server thread/INFO]: <LolitaGothica> ?
+[22:04:08] [Server thread/INFO]: <SQUIGGLE_FACE> fred ?
+[22:04:12] [Server thread/INFO]: <LolitaGothica> Han var her akkurat
+[22:04:28] [Server thread/INFO]: <LolitaGothica> Stakk for cirka 5 min siden.
+[22:04:42] [Server thread/INFO]: <Bloody_fool> really
+[22:04:48] [Server thread/INFO]: <SQUIGGLE_FACE> jepp
+[22:04:59] [Server thread/INFO]: <Bloody_fool> jeg har i hvert fall ikke sett han pa noen dager
+[22:07:19] [Server thread/INFO]: Bloody_fool lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:07:19] [Server thread/INFO]: Bloody_fool left the game
+[22:09:44] [Server thread/INFO]: <SQUIGGLE_FACE> sove
+[22:09:48] [Server thread/INFO]: LolitaGothica lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:09:48] [Server thread/INFO]: LolitaGothica left the game
+[22:11:13] [User Authenticator #976/INFO]: UUID of player LolitaGothica is a777c14869bb46de83d1b3c41df5d183
+[22:11:13] [Server thread/INFO]: LolitaGothica[/88.91.90.176:60641] logged in with entity id 23578644 at (258.6891934978556, 63.0, 37.867354651850846)
+[22:11:13] [Server thread/INFO]: LolitaGothica joined the game
+[22:15:47] [Server thread/INFO]: LolitaGothica lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:15:47] [Server thread/INFO]: LolitaGothica left the game
+[22:22:56] [Server thread/INFO]: SQUIGGLE_FACE was shot by Skeleton
+[22:32:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2618ms behind, skipping 52 tick(s)
+[22:35:37] [Server thread/INFO]: SQUIGGLE_FACE was slain by Zombie
+[22:36:12] [Server thread/INFO]: SQUIGGLE_FACE lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:36:12] [Server thread/INFO]: SQUIGGLE_FACE left the game
+[22:36:23] [User Authenticator #977/INFO]: UUID of player SQUIGGLE_FACE is ba16ef81c7ea4fe398e0ba4db8e11158
+[22:36:23] [Server thread/INFO]: SQUIGGLE_FACE[/109.203.26.200:61047] logged in with entity id 23618352 at (-155.66315232094303, 79.0, 759.4583957860879)
+[22:36:23] [Server thread/INFO]: SQUIGGLE_FACE joined the game
+[22:47:23] [Server thread/INFO]: SQUIGGLE_FACE lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:47:23] [Server thread/INFO]: SQUIGGLE_FACE left the game
