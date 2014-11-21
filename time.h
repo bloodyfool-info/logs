@@ -2,10 +2,10 @@
 #define TIME_H
 
 
-class time
+class Time
 {
     public:
-        time(int, int, int);
+        Time(int, int, int);
         int Second();
         int Minute();
         int Hour();

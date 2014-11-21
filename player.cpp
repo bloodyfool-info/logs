@@ -2,7 +2,7 @@
 #include <sstream>
 Player::Player(string n): name(n), bin(false)
 {
-    logs.push_back(new time(0, 0, 0));
+    logs.push_back(new Time(0, 0, 0));
 }
 
 void Player::addLog(string t)
@@ -17,7 +17,7 @@ void Player::addLog(string t)
     ss.str(t);
     ss >> h >> m >> s;
     //cout << "added log for " << name << " at " << h << " " << m << " " << s << endl;
-    logs.push_back(new time(h ,m, s));
+    logs.push_back(new Time(h ,m, s));
 }
 
 string Player::getName()

@@ -19,7 +19,7 @@ class Player
     private:
         string name;
         bool bin;
-        vector<time*> logs;
+        vector<Time*> logs;
 };
 
 #endif // PLAYER_H
