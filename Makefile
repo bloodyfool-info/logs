@@ -2,16 +2,16 @@ CC = g++
 CFLAGS = -c -Wall
 all: logs
 
-logs: 
-	$(CC) $(CFLAGS) main.cpp player.cpp time.cpp -o Logins
+logs: main.o player.o time.o
+	$(CC) $(CFLAGS) main.o player.o time.o -o Logins
 
-main: main.cpp
+main.o: main.cpp player.o
 	$(CC) $(CFLAGS) main.cpp
 
-player: player.cpp
+player.o: player.cpp time.o
 	$(CC) $(CFLAGS) player.cpp	
 
-time: time.cpp
+time.o: time.cpp
 	$(CC) $(CFLAGS) time.cpp
 	
 clean:
