@@ -1,2 +1,2 @@
 all:
-	g++ -c -Wall main.cpp -o testersgg
+	g++ main.cpp -o argtest

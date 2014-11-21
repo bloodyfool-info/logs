@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -c -Wall
+CFLAGS = -c -Wall -std=c++11
 all: logs
 
 logs: main.o player.o time.o

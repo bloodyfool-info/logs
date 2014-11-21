@@ -5,6 +5,7 @@
 #include "player.h"
 #include <map>
 #include <set>
+#include <ctime>
 
 using namespace std;
 
@@ -23,15 +24,34 @@ void draw(int len, ofstream * nlog, map<string, Player*>* p, set<string>* n){
     }
         *nlog << *ni << " |";
         p->at(*ni)->draw(nlog);
-    //if(p[*ni]->)
     }
 
 
 }
 
-int main()
+int main(int argc, char* argv[])
 {
-    ifstream log("2013-11-24-1.log");
+    time_t t = time(0);
+    struct tm * now = localtime(&t);
+    int i = 1;
+    string tme = to_string(now->tm_year) + "-" + to_string(now->tm_mon) + "-" + to_string(now->tm_mday-1) + "-" + to_string(i) + ".log";
+    cout << tme << endl;
+	if(argc==2){
+		ifstream log(argv[1]);
+		if(log.peek() == EOF) {
+            cout << "specified log does not exist, or is empty" << endl;
+            return 0;
+		}
+	}
+	else if(argc==1) {
+        //combine logs
+		ifstream log(tme);
+	}
+	else {
+		cout << "invalid input, too many arguments" << endl;
+        return 0;
+	}
+    //ifstream log("2013-11-24-1.log");
     ofstream nlog("new.txt");
 
     map<string, Player*> players;
