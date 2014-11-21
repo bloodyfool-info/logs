@@ -35,7 +35,6 @@ int main(int argc, char* argv[])
     struct tm * now = localtime(&t);
     int i = 1;
     string tme = to_string(now->tm_year+1900) + "-" + to_string(now->tm_mon) + "-" + to_string(now->tm_mday-1) + "-" + to_string(i) + ".log";
-    cout << tme << endl;
 	if(argc==2)
 		tme = argv[1];
 
@@ -49,11 +48,12 @@ int main(int argc, char* argv[])
         return 0;
 	}
 	ifstream log(tme);
+    cout << tme << endl;
 	if(log.peek() == EOF) {
         cout << "specified log does not exist, or is empty" << endl;
         return 0;
 	}
-    ofstream nlog("new.txt");
+    ofstream nlog(tme[0, tme.length()-4] + "-logs" + ".log");
 
     map<string, Player*> players;
     set<string> names;
