@@ -36,16 +36,15 @@ int main(int argc, char* argv[])
     int i = 1;
     string tme = to_string(now->tm_year) + "-" + to_string(now->tm_mon) + "-" + to_string(now->tm_mday-1) + "-" + to_string(i) + ".log";
     cout << tme << endl;
-	if(argc==2){
-		ifstream log(argv[1]);
-	}
+	if(argc==2)
+		tme = argv[1];
+	
 	else if(argc==1) {
         //combine logs
-		ifstream log(tme);
-		
+		tme = tme;
 	}
 	else {
-		ifstream("nope.txt");
+		tme = "nope.txt";
 		cout << "invalid input, too many arguments" << endl;
         return 0;
 	}
@@ -53,7 +52,7 @@ int main(int argc, char* argv[])
         cout << "specified log does not exist, or is empty" << endl;
         return 0;
 	}
-    //ifstream log("2013-11-24-1.log");
+    ifstream log(tme);
     ofstream nlog("new.txt");
 
     map<string, Player*> players;
