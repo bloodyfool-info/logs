@@ -38,17 +38,18 @@ int main(int argc, char* argv[])
     cout << tme << endl;
 	if(argc==2){
 		ifstream log(argv[1]);
-		if(log.peek() == EOF) {
-            cout << "specified log does not exist, or is empty" << endl;
-            return 0;
-		}
 	}
 	else if(argc==1) {
         //combine logs
 		ifstream log(tme);
+		
 	}
 	else {
 		cout << "invalid input, too many arguments" << endl;
+        return 0;
+	}
+	if(log.peek() == EOF) {
+        cout << "specified log does not exist, or is empty" << endl;
         return 0;
 	}
     //ifstream log("2013-11-24-1.log");
