@@ -34,7 +34,7 @@ int main(int argc, char* argv[])
     time_t t = time(0);
     struct tm * now = localtime(&t);
     int i = 1;
-    string tme = to_string(now->tm_year) + "-" + to_string(now->tm_mon) + "-" + to_string(now->tm_mday-1) + "-" + to_string(i) + ".log";
+    string tme = to_string(now->tm_year+1900) + "-" + to_string(now->tm_mon) + "-" + to_string(now->tm_mday-1) + "-" + to_string(i) + ".log";
     cout << tme << endl;
 	if(argc==2)
 		tme = argv[1];
