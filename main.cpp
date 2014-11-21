@@ -53,7 +53,9 @@ int main(int argc, char* argv[])
         cout << "specified log does not exist, or is empty" << endl;
         return 0;
 	}
-    ofstream nlog(tme[0, tme.length()-4] + "-logs" + ".log");
+	tme.insert(tme.size()-4, "-logs");
+	cout << tme << endl;
+    ofstream nlog(tme);
 
     map<string, Player*> players;
     set<string> names;
