@@ -45,6 +45,7 @@ int main(int argc, char* argv[])
 		
 	}
 	else {
+		ifstream("nope.txt");
 		cout << "invalid input, too many arguments" << endl;
         return 0;
 	}
