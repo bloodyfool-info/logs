@@ -2,8 +2,8 @@ CC = g++
 CFLAGS = -c -Wall
 all: logs
 
-logs: 
-	$(CC) $(CFLAGS) main.cpp player.cpp time.cpp -o Logins
+logs: main.o player.o time.o
+	$(CC) main.o player.o time.o -o Logins
 
 main.o: main.cpp
 	$(CC) $(CFLAGS) main.cpp
