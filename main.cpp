@@ -38,7 +38,7 @@ int main(int argc, char* argv[])
     cout << tme << endl;
 	if(argc==2)
 		tme = argv[1];
-	
+
 	else if(argc==1) {
         //combine logs
 		tme = tme;
@@ -48,11 +48,11 @@ int main(int argc, char* argv[])
 		cout << "invalid input, too many arguments" << endl;
         return 0;
 	}
+	ifstream log(tme);
 	if(log.peek() == EOF) {
         cout << "specified log does not exist, or is empty" << endl;
         return 0;
 	}
-    ifstream log(tme);
     ofstream nlog("new.txt");
 
     map<string, Player*> players;
