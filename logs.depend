@@ -30,3 +30,25 @@
 	"time.h"
 	<iostream>
 
+1416317671 source:c:\users\wessel\documents\git\bloodyfool.info\logs\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"player.h"
+	<map>
+	<set>
+
+1416575613 c:\users\wessel\documents\git\bloodyfool.info\logs\player.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"time.h"
+
+1416575649 c:\users\wessel\documents\git\bloodyfool.info\logs\time.h
+
+1416575650 source:c:\users\wessel\documents\git\bloodyfool.info\logs\time.cpp
+	"time.h"
+	<iostream>
+

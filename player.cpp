@@ -33,8 +33,6 @@ void Player::setBin()
 void Player::draw(ofstream * nlog)
 {
     unsigned int i = 0;
-    int w = 0;
-    int k = 0;
     int f = 0;
 
     for(i = 0; i<logs.size()-1; i++, bin = !bin){
@@ -51,7 +49,7 @@ void Player::draw(ofstream * nlog)
                 *nlog << " ";
         }
     }
-    for(f; f<144; f++)
+    for(f=f; f<144; f++)
         if(bin)
             *nlog << "-";
         else
